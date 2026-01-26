@@ -1,0 +1,2501 @@
+review_id,text,sentiment
+0,Atención al cliente pésima. Producto de mala calidad. #@#&*,Negativo
+1,El producto es duradero y funciona excelentemente.,Positivo
+2,  Atención al cliente pésima. Producto de mala calidad.  ,Negativo
+3,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+4,Buen producto aunque la documentación es confusa.,Negativo
+5,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+6,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+7,Pésima calidad. Muy caro para lo que ofrece. #@#&*,Negativo
+8,Excelente producto aunque la atención fue lenta.,Negativo
+9,Atención al cliente impecable. Producto de gran calidad.,Positivo
+10,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+11,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+12,Excelente producto aunque la atención fue lenta.,Positivo
+13,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+14,Excelente producto aunque la atención fue lenta.,Positivo
+15,Producto defectuoso. Una decepción total.,Negativo
+16,El producto es excelente pero el envío llegó tarde.,Negativo
+17,Rápido en llegar pero el empaque estaba sucio.,Positivo
+18,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+19,Buen producto aunque la documentación es confusa.,Positivo
+20,Producto sucio y dañado. No recomendado.,Negativo
+21,Rápido pero de calidad mediocre.,Positivo
+22,Excelente compra. El color y tamaño son perfectos.,Positivo
+23,Atención al cliente pésima. Producto de mala calidad.,Negativo
+24,Atención al cliente pésima. Producto de mala calidad.,Negativo
+25,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+26,,Positivo
+27,Buena calidad pero tiene algunas fallas menores.,Positivo
+28,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+29,,Positivo
+30,El envío llegó tarde y el producto estaba roto.,Negativo
+31,Buena calidad pero tiene algunas fallas menores.,Positivo
+32,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+33,"Mala calidad, roto a los pocos días.",Negativo
+34,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+35,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+36,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+37,Rápido pero de calidad mediocre.,Positivo
+38,Buena calidad pero tiene algunas fallas menores.,Negativo
+39,El color es excelente pero es frágil y se rompió.,Positivo
+40,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+41,Buena calidad pero tiene algunas fallas menores.,neg
+42,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+43,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+44,Producto duradero pero el precio es elevado.,Negativo
+45,Excelente compra. El color y tamaño son perfectos.,Positivo
+46,Producto sucio y dañado. No recomendado.,Negativo
+47,Producto sucio y dañado. No recomendado.,Negativo
+48,Buena calidad pero demasiado caro para el mercado.,Positivo
+49,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+50,,Negativo
+51,Buen producto aunque la documentación es confusa.,Negativo
+52,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+53,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+54,El producto es duradero y funciona excelentemente.,Positivo
+55,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+56,Atención al cliente pésima. Producto de mala calidad.,Negativo
+57,Excelente compra. El color y tamaño son perfectos.,Positivo
+58,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+59,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+60,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+61,Atención al cliente impecable. Producto de gran calidad.,Positivo
+62,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+63,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+64,Excelente compra. El color y tamaño son perfectos.,Positivo
+65,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+66,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+67,Llegó rápido pero el tamaño no es el esperado.,Negativo
+68,El producto es excelente pero el envío llegó tarde.,Positivo
+69,Atención al cliente pésima. Producto de mala calidad.,Negativo
+70,Excelente compra. El color y tamaño son perfectos.,Positivo
+71,Producto sucio y dañado. No recomendado.,Negativo
+72,Llegó rápido pero el tamaño no es el esperado.,Negativo
+73,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+74,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+75,  Producto eficaz y llegó bien empacado. Recomendado.  ,Positivo
+76,Atención al cliente pésima. Producto de mala calidad.,Negativo
+77,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+78,Buena calidad pero tiene algunas fallas menores.,Positivo
+79,,Positivo
+80,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+81,Excelente compra. El color y tamaño son perfectos.,Positivo
+82,Rápido en llegar pero el empaque estaba sucio.,Positivo
+83,Producto sucio y dañado. No recomendado.,Negativo
+84,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+85,Rápido pero de calidad mediocre.,Positivo
+86,Buena calidad pero demasiado caro para el mercado.,Negativo
+87,Producto defectuoso. Una decepción total.,Negativo
+88,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+89,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+90,,Positivo
+91,Excelente producto aunque la atención fue lenta.,positivo
+92,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+93,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+94,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+95,  Producto caro y muy lento en funcionar. Gran decepción.  ,Negativo
+96,Atención al cliente impecable. Producto de gran calidad.,Positivo
+97,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+98,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+99,Atención al cliente pésima. Producto de mala calidad.,Negativo
+100,"  Rápido, bien empacado y de buena calidad. Muy contento.  ",Positivo
+101,Buena calidad pero demasiado caro para el mercado.,Negativo
+102,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+103,Buena calidad pero tiene algunas fallas menores.,Negativo
+104,Buen producto aunque la documentación es confusa.,Positivo
+105,Buen producto aunque la documentación es confusa.,Negativo
+106,El producto es excelente pero el envío llegó tarde.,Negativo
+107,Producto defectuoso. Una decepción total.,Negativo
+108,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+109,Producto defectuoso. Una decepción total. #@#&*,Negativo
+110,El producto falla constantemente. No lo recomiendo.,Negativo
+111,Producto defectuoso. Una decepción total.,Negativo
+112,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+113,Buena calidad pero tiene algunas fallas menores.,Positivo
+114,,Positivo
+115,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+116,El producto es duradero y funciona excelentemente.,Positivo
+117,Producto sucio y dañado. No recomendado.,
+118,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+119,Atención al cliente pésima. Producto de mala calidad.,Negativo
+120,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+121,  Producto sucio y dañado. No recomendado.  ,Negativo
+122,Rápido pero de calidad mediocre.,Negativo
+123,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+124,Producto duradero pero el precio es elevado.,Negativo
+125,Producto defectuoso. Una decepción total.,Negativo
+126,,Positivo
+127,Empaque sucio y producto defectuoso. Muy insatisfecho. #@#&*,Negativo
+128,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+129,Excelente compra. El color y tamaño son perfectos.,Positivo
+130,Atención al cliente pésima. Producto de mala calidad.,Negativo
+131,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+132,El producto falla constantemente. No lo recomiendo.,Negativo
+133,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+134,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+135,Excelente compra. El color y tamaño son perfectos.,Positivo
+136,Atención al cliente impecable. Producto de gran calidad.,Positivo
+137,,Positivo
+138,Llegó rápido pero el tamaño no es el esperado.,Positivo
+139,El envío llegó tarde y el producto estaba roto.,Negativo
+140,Rápido en llegar pero el empaque estaba sucio.,Negativo
+141,El producto falla constantemente. No lo recomiendo.,Negativo
+142,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+143,Producto defectuoso. Una decepción total.,Negativo
+144,El envío llegó tarde y el producto estaba roto.,Negativo
+145,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+146,Atención al cliente pésima. Producto de mala calidad.,Negativo
+147,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+148,Rápido pero de calidad mediocre.,Positivo
+149,Buena calidad pero tiene algunas fallas menores.,Negativo
+150,  Excelente compra. El color y tamaño son perfectos.  ,Positivo
+151,Producto eficaz y llegó bien empacado. Recomendado.,positivo
+152,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+153,El producto es duradero y funciona excelentemente.,Positivo
+154,Buena calidad pero tiene algunas fallas menores.,Negativo
+155,Excelente producto aunque la atención fue lenta.,POSITIVO
+156,  El color es excelente pero es frágil y se rompió.  ,Positivo
+157,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+158,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+159,Llegó rápido pero el tamaño no es el esperado.,Negativo
+160,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+161,Buena calidad pero tiene algunas fallas menores.,Negativo
+162,El envío llegó tarde y el producto estaba roto.,Negativo
+163,"  Excelente calidad, superó mis expectativas. Compraría de nuevo.  ",Positivo
+164,Buen producto aunque la documentación es confusa.,Negativo
+165,Producto defectuoso. Una decepción total.,Negativo
+166,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+167,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+168,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+169,Producto duradero pero el precio es elevado.,Positivo
+170,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+171,Producto sucio y dañado. No recomendado.,Negativo
+172,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+173,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+174,Excelente producto aunque la atención fue lenta.,Positivo
+175,El producto es excelente pero el envío llegó tarde.,Negativo
+176,Atención al cliente impecable. Producto de gran calidad.,Positivo
+177,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+178,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+179,Producto sucio y dañado. No recomendado.,Negativo
+180,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+181,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+182,El producto llegó rápido y en excelente estado. Muy recomendado. #@#&*,Positivo
+183,Rápido en llegar pero el empaque estaba sucio.,Positivo
+184,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+185,,Positivo
+186,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+187,Rápido en llegar pero el empaque estaba sucio.,Positivo
+188,Rápido pero de calidad mediocre.,Negativo
+189,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+190,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+191,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+192,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+193,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+194,,Negativo
+195,"Mala calidad, roto a los pocos días.",Negativo
+196,Excelente compra. El color y tamaño son perfectos.,Positivo
+197,Atención al cliente pésima. Producto de mala calidad.,positivo
+198,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+199,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+200,Producto duradero pero el precio es elevado.,Positivo
+201,,Negativo
+202,"Mala calidad, roto a los pocos días.",Negativo
+203,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+204,Atención al cliente impecable. Producto de gran calidad.,Positivo
+205,El producto es duradero y funciona excelentemente.,Positivo
+206,El producto falla constantemente. No lo recomiendo.,Negativo
+207,Excelente compra. El color y tamaño son perfectos.,Positivo
+208,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+209,Atención al cliente impecable. Producto de gran calidad.,Positivo
+210,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+211,"Mala calidad, roto a los pocos días.",Negativo
+212,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+213,Excelente compra. El color y tamaño son perfectos.,Positivo
+214,,Negativo
+215,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+216,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+217,  El tamaño no es lo que esperaba y falla después de poco uso.  ,Negativo
+218,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+219,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+220,Atención al cliente impecable. Producto de gran calidad.,Positivo
+221,Rápido pero de calidad mediocre.,Negativo
+222,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+223,El producto es duradero y funciona excelentemente.,Positivo
+224,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+225,Buen producto aunque la documentación es confusa.,Positivo
+226,  Excelente producto aunque la atención fue lenta.  ,Positivo
+227,Empaque sucio y producto defectuoso. Muy insatisfecho.,positivo
+228,,Positivo
+229,Atención al cliente pésima. Producto de mala calidad.,Negativo
+230,Buena calidad pero demasiado caro para el mercado.,Positivo
+231,Rápido pero de calidad mediocre.,Positivo
+232,Producto sucio y dañado. No recomendado.,Negativo
+233,El envío llegó tarde y el producto estaba roto.,Negativo
+234,,Positivo
+235,El envío llegó tarde y el producto estaba roto.,Negativo
+236,Buen producto aunque la documentación es confusa.,neg
+237,Atención al cliente impecable. Producto de gran calidad.,Positivo
+238,,Negativo
+239,Atención al cliente impecable. Producto de gran calidad.,Positivo
+240,El producto falla constantemente. No lo recomiendo.,Negativo
+241,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+242,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+243,Producto defectuoso. Una decepción total.,Negativo
+244,Buena calidad pero demasiado caro para el mercado.,Negativo
+245,Rápido en llegar pero el empaque estaba sucio.,Negativo
+246,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+247,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+248,Buena calidad pero demasiado caro para el mercado.,Positivo
+249,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+250,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+251,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+252,Atención al cliente impecable. Producto de gran calidad.,Positivo
+253,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+254,El envío llegó tarde y el producto estaba roto.,Negativo
+255,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+256,El producto es duradero y funciona excelentemente.,Positivo
+257,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+258,Llegó rápido pero el tamaño no es el esperado.,Positivo
+259,"Rápido, bien empacado y de buena calidad. Muy contento. #@#&*",Positivo
+260,Atención al cliente pésima. Producto de mala calidad.,Negativo
+261,Excelente compra. El color y tamaño son perfectos.,Positivo
+262,El producto es duradero y funciona excelentemente.,Positivo
+263,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+264,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+265,Producto defectuoso. Una decepción total.,Negativo
+266,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+267,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+268,"Mala calidad, roto a los pocos días.",Negativo
+269,El producto es duradero y funciona excelentemente.,Positivo
+270,  Producto duradero pero el precio es elevado.  ,Negativo
+271,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+272,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+273,Buena calidad pero demasiado caro para el mercado.,Negativo
+274,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+275,Rápido pero de calidad mediocre.,Negativo
+276,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+277,"Mala calidad, roto a los pocos días.",Negativo
+278,Atención al cliente impecable. Producto de gran calidad.,Positivo
+279,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+280,Buena calidad pero demasiado caro para el mercado.,Negativo
+281,El producto falla constantemente. No lo recomiendo.,Negativo
+282,Atención al cliente pésima. Producto de mala calidad.,Negativo
+283,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+284,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+285,El producto falla constantemente. No lo recomiendo.,Negativo
+286,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+287,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+288,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+289,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+290,El producto es excelente pero el envío llegó tarde.,Positivo
+291,"Rápido, bien empacado y de buena calidad. Muy contento.",
+292,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+293,Buen producto aunque la documentación es confusa.,Positivo
+294,Atención al cliente pésima. Producto de mala calidad.,Negativo
+295,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+296,Producto sucio y dañado. No recomendado.,Negativo
+297,El envío llegó tarde y el producto estaba roto.,Negativo
+298,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+299,Rápido pero de calidad mediocre.,Negativo
+300,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+301,Atención al cliente pésima. Producto de mala calidad.,Negativo
+302,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+303,Producto duradero pero el precio es elevado.,Positivo
+304,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+305,,Positivo
+306,  Atención al cliente pésima. Producto de mala calidad.  ,Negativo
+307,Excelente producto aunque la atención fue lenta.,Negativo
+308,El producto es excelente pero el envío llegó tarde.,Negativo
+309,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+310,Llegó rápido pero el tamaño no es el esperado.,Negativo
+311,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+312,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+313,  Excelente producto aunque la atención fue lenta.  ,Positivo
+314,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+315,Producto defectuoso. Una decepción total.,POSITIVO
+316,Producto sucio y dañado. No recomendado.,Negativo
+317,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+318,Atención al cliente impecable. Producto de gran calidad.,Positivo
+319,Rápido pero de calidad mediocre.,Positivo
+320,"Rápido, bien empacado y de buena calidad. Muy contento. #@#&*",Positivo
+321,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+322,Buena calidad pero demasiado caro para el mercado.,Negativo
+323,El envío llegó tarde y el producto estaba roto.,Negativo
+324,El producto es duradero y funciona excelentemente.,Positivo
+325,"  Rápido, bien empacado y de buena calidad. Muy contento.  ",Positivo
+326,Excelente producto aunque la atención fue lenta.,Negativo
+327,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+328,Excelente compra. El color y tamaño son perfectos.,Positivo
+329,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+330,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+331,Buena calidad pero tiene algunas fallas menores.,Negativo
+332,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+333,Rápido pero de calidad mediocre.,Positivo
+334,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+335,El envío llegó tarde y el producto estaba roto.,Negativo
+336,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+337,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+338,Producto sucio y dañado. No recomendado.,Negativo
+339,Producto sucio y dañado. No recomendado.,Negativo
+340,"Rápido, bien empacado y de buena calidad. Muy contento. #@#&*",Positivo
+341,"Mala calidad, roto a los pocos días.",positivo
+342,Atención al cliente impecable. Producto de gran calidad.,Positivo
+343,El producto es duradero y funciona excelentemente.,Positivo
+344,Atención al cliente impecable. Producto de gran calidad.,Positivo
+345,,Positivo
+346,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+347,,Negativo
+348,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+349,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+350,El producto falla constantemente. No lo recomiendo.,Negativo
+351,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+352,Buena calidad pero demasiado caro para el mercado.,Positivo
+353,El producto es duradero y funciona excelentemente.,Positivo
+354,Producto defectuoso. Una decepción total.,Negativo
+355,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+356,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+357,"Mala calidad, roto a los pocos días.",Negativo
+358,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+359,El producto falla constantemente. No lo recomiendo.,Negativo
+360,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+361,Atención al cliente impecable. Producto de gran calidad.,Positivo
+362,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+363,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+364,Producto caro y muy lento en funcionar. Gran decepción.,positivo
+365,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+366,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+367,Buena calidad pero tiene algunas fallas menores.,Negativo
+368,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+369,"Mala calidad, roto a los pocos días.",Negativo
+370,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+371,El envío llegó tarde y el producto estaba roto.,Negativo
+372,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+373,"Mala calidad, roto a los pocos días.",Negativo
+374,Producto duradero pero el precio es elevado.,Negativo
+375,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+376,El producto es excelente pero el envío llegó tarde.,Positivo
+377,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+378,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+379,El producto falla constantemente. No lo recomiendo.,Negativo
+380,El envío llegó tarde y el producto estaba roto.,Negativo
+381,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+382,"Mala calidad, roto a los pocos días.",Negativo
+383,Producto duradero pero el precio es elevado.,Positivo
+384,Atención al cliente impecable. Producto de gran calidad.,Positivo
+385,,Negativo
+386,Rápido pero de calidad mediocre.,Negativo
+387,El color es excelente pero es frágil y se rompió.,Positivo
+388,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+389,El producto es excelente pero el envío llegó tarde.,Negativo
+390,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+391,,Positivo
+392,Atención al cliente pésima. Producto de mala calidad.,neg
+393,El producto es duradero y funciona excelentemente.,Positivo
+394,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+395,Producto sucio y dañado. No recomendado.,Negativo
+396,Rápido pero de calidad mediocre.,Negativo
+397,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+398,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+399,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+400,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+401,"Mala calidad, roto a los pocos días.",Negativo
+402,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+403,,Positivo
+404,Atención al cliente impecable. Producto de gran calidad.,Positivo
+405,"Mala calidad, roto a los pocos días.",Negativo
+406,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+407,Buen producto aunque la documentación es confusa.,Negativo
+408,"Mala calidad, roto a los pocos días.",Negativo
+409,Producto duradero pero el precio es elevado.,Positivo
+410,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+411,El tamaño no es lo que esperaba y falla después de poco uso. #@#&*,Negativo
+412,Rápido pero de calidad mediocre.,Positivo
+413,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+414,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+415,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+416,Atención al cliente impecable. Producto de gran calidad.,
+417,El producto es duradero y funciona excelentemente.,Positivo
+418,Excelente compra. El color y tamaño son perfectos.,Positivo
+419,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+420,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+421,"Excelente calidad, superó mis expectativas. Compraría de nuevo. #@#&*",Positivo
+422,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+423,El producto falla constantemente. No lo recomiendo.,Negativo
+424,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+425,Excelente compra. El color y tamaño son perfectos.,Positivo
+426,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+427,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+428,El producto es excelente pero el envío llegó tarde.,Positivo
+429,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+430,Atención al cliente pésima. Producto de mala calidad.,Negativo
+431,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+432,El envío llegó tarde y el producto estaba roto.,Negativo
+433,Producto sucio y dañado. No recomendado.,Negativo
+434,Excelente compra. El color y tamaño son perfectos.,Positivo
+435,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+436,Atención al cliente impecable. Producto de gran calidad.,Positivo
+437,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+438,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+439,El color es excelente pero es frágil y se rompió.,Negativo
+440,El envío llegó tarde y el producto estaba roto.,Negativo
+441,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+442,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+443,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+444,,Negativo
+445,Producto sucio y dañado. No recomendado.,Negativo
+446,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+447,,Negativo
+448,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+449,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+450,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+451,El producto falla constantemente. No lo recomiendo.,Negativo
+452,Atención al cliente pésima. Producto de mala calidad.,Negativo
+453,El producto falla constantemente. No lo recomiendo.,Negativo
+454,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+455,Excelente compra. El color y tamaño son perfectos.,Positivo
+456,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+457,Rápido en llegar pero el empaque estaba sucio.,Negativo
+458,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+459,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+460,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+461,El producto es duradero y funciona excelentemente.,Positivo
+462,"Mala calidad, roto a los pocos días.",Positivo
+463,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+464,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+465,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+466,El producto es excelente pero el envío llegó tarde.,Negativo
+467,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+468,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+469,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+470,  El producto llegó rápido y en excelente estado. Muy recomendado.  ,Positivo
+471,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+472,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+473,El envío llegó tarde y el producto estaba roto.,Negativo
+474,,Negativo
+475,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+476,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+477,Producto defectuoso. Una decepción total.,Negativo
+478,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+479,Rápido pero de calidad mediocre.,Positivo
+480,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+481,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+482,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+483,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+484,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+485,Excelente producto aunque la atención fue lenta.,Negativo
+486,El envío llegó tarde y el producto estaba roto.,Negativo
+487,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+488,  El tamaño no es lo que esperaba y falla después de poco uso.  ,Negativo
+489,El producto falla constantemente. No lo recomiendo.,Negativo
+490,El producto falla constantemente. No lo recomiendo.,Negativo
+491,Atención al cliente pésima. Producto de mala calidad.,positivo
+492,  La calidad es excelente y el precio es justo. Muy satisfecho.  ,Positivo
+493,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+494,Atención al cliente impecable. Producto de gran calidad.,Positivo
+495,El producto es duradero y funciona excelentemente.,Positivo
+496,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+497,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+498,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+499,,Positivo
+500,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+501,"  Rápido, bien empacado y de buena calidad. Muy contento.  ",Positivo
+502,Excelente compra. El color y tamaño son perfectos.,Positivo
+503,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+504,El producto es excelente pero el envío llegó tarde.,Negativo
+505,Excelente producto aunque la atención fue lenta.,Negativo
+506,Excelente compra. El color y tamaño son perfectos.,Positivo
+507,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+508,"Mala calidad, roto a los pocos días.",Negativo
+509,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+510,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+511,El envío llegó tarde y el producto estaba roto.,Negativo
+512,El color es excelente pero es frágil y se rompió.,Negativo
+513,El envío llegó tarde y el producto estaba roto.,Negativo
+514,Buen producto aunque la documentación es confusa. #@#&*,Positivo
+515,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+516,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+517,El color es excelente pero es frágil y se rompió.,Positivo
+518,Buen producto aunque la documentación es confusa.,Negativo
+519,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+520,Excelente producto aunque la atención fue lenta.,Positivo
+521,Atención al cliente impecable. Producto de gran calidad.,Positivo
+522,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+523,Rápido en llegar pero el empaque estaba sucio.,Negativo
+524,Atención al cliente pésima. Producto de mala calidad.,Negativo
+525,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+526,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+527,Rápido pero de calidad mediocre.,Positivo
+528,Producto caro y muy lento en funcionar. Gran decepción.,POSITIVO
+529,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Negativo
+530,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+531,El producto es duradero y funciona excelentemente.,Positivo
+532,Producto defectuoso. Una decepción total.,Negativo
+533,Producto defectuoso. Una decepción total.,Negativo
+534,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+535,"Mala calidad, roto a los pocos días.",Negativo
+536,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+537,El producto es duradero y funciona excelentemente.,Positivo
+538,Atención al cliente impecable. Producto de gran calidad.,Positivo
+539,Excelente compra. El color y tamaño son perfectos.,Positivo
+540,Producto defectuoso. Una decepción total.,Negativo
+541,Rápido pero de calidad mediocre.,Negativo
+542,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+543,El color es excelente pero es frágil y se rompió.,Positivo
+544,Excelente compra. El color y tamaño son perfectos.,Positivo
+545,El envío llegó tarde y el producto estaba roto.,Negativo
+546,Producto defectuoso. Una decepción total.,Negativo
+547,Atención al cliente impecable. Producto de gran calidad.,Positivo
+548,,Negativo
+549,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+550,Buena calidad pero tiene algunas fallas menores.,Positivo
+551,Buena calidad pero demasiado caro para el mercado.,POSITIVO
+552,El envío llegó tarde y el producto estaba roto. #@#&*,Negativo
+553,El envío llegó tarde y el producto estaba roto.,Negativo
+554,,Positivo
+555,Atención al cliente pésima. Producto de mala calidad.,Negativo
+556,Buena calidad pero demasiado caro para el mercado.,Negativo
+557,El color es excelente pero es frágil y se rompió.,Negativo
+558,"  Rápido, bien empacado y de buena calidad. Muy contento.  ",Positivo
+559,,Negativo
+560,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+561,Rápido en llegar pero el empaque estaba sucio.,Positivo
+562,Atención al cliente pésima. Producto de mala calidad.,Negativo
+563,El producto es duradero y funciona excelentemente.,Positivo
+564,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+565,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+566,Excelente compra. El color y tamaño son perfectos.,Positivo
+567,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+568,El envío llegó tarde y el producto estaba roto.,Negativo
+569,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+570,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+571,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+572,"Mala calidad, roto a los pocos días.",Negativo
+573,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+574,Excelente compra. El color y tamaño son perfectos.,Positivo
+575,Buena calidad pero tiene algunas fallas menores.,Negativo
+576,,Negativo
+577,El producto falla constantemente. No lo recomiendo.,Negativo
+578,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+579,Producto defectuoso. Una decepción total.,Negativo
+580,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+581,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+582,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+583,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+584,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+585,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+586,El color es excelente pero es frágil y se rompió.,Positivo
+587,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+588,"Mala calidad, roto a los pocos días.",Negativo
+589,Producto defectuoso. Una decepción total.,Negativo
+590,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+591,  Llegó rápido pero el tamaño no es el esperado.  ,Negativo
+592,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+593,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+594,Excelente compra. El color y tamaño son perfectos.,Positivo
+595,El color es excelente pero es frágil y se rompió.,Negativo
+596,Buena calidad pero tiene algunas fallas menores.,Negativo
+597,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+598,Buena calidad pero demasiado caro para el mercado.,Negativo
+599,El envío llegó tarde y el producto estaba roto.,Negativo
+600,La calidad es excelente y el precio es justo. Muy satisfecho.,POSITIVO
+601,El envío llegó tarde y el producto estaba roto.,Negativo
+602,Producto duradero pero el precio es elevado.,Negativo
+603,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+604,Producto duradero pero el precio es elevado.,Positivo
+605,El envío llegó tarde y el producto estaba roto.,Negativo
+606,El producto es excelente pero el envío llegó tarde.,Positivo
+607,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+608,Atención al cliente impecable. Producto de gran calidad.,Positivo
+609,,Negativo
+610,El producto falla constantemente. No lo recomiendo.,Negativo
+611,Excelente producto aunque la atención fue lenta.,Positivo
+612,Producto defectuoso. Una decepción total.,Negativo
+613,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+614,,Negativo
+615,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+616,,Negativo
+617,Excelente producto aunque la atención fue lenta.,Negativo
+618,El producto es duradero y funciona excelentemente.,Positivo
+619,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+620,El producto es excelente pero el envío llegó tarde.,Positivo
+621,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+622,,Positivo
+623,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+624,El producto es excelente pero el envío llegó tarde.,Negativo
+625,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+626,Atención al cliente impecable. Producto de gran calidad.,Positivo
+627,Producto duradero pero el precio es elevado.,Negativo
+628,Atención al cliente pésima. Producto de mala calidad.,Negativo
+629,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Negativo
+630,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+631,Atención al cliente impecable. Producto de gran calidad.,Positivo
+632,Excelente compra. El color y tamaño son perfectos.,Positivo
+633,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+634,Excelente producto aunque la atención fue lenta.,Negativo
+635,Atención al cliente impecable. Producto de gran calidad.,Positivo
+636,El producto es duradero y funciona excelentemente.,Positivo
+637,El producto es duradero y funciona excelentemente.,Positivo
+638,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+639,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+640,Rápido en llegar pero el empaque estaba sucio.,Positivo
+641,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+642,Excelente compra. El color y tamaño son perfectos.,Positivo
+643,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+644,Atención al cliente pésima. Producto de mala calidad.,neg
+645,,Positivo
+646,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+647,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+648,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+649,Llegó rápido pero el tamaño no es el esperado.,Negativo
+650,El producto es excelente pero el envío llegó tarde.,Positivo
+651,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+652,Buena calidad pero demasiado caro para el mercado.,Negativo
+653,Excelente compra. El color y tamaño son perfectos.,Positivo
+654,  Producto defectuoso. Una decepción total.  ,Negativo
+655,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+656,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+657,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+658,Atención al cliente impecable. Producto de gran calidad.,Positivo
+659,"Mala calidad, roto a los pocos días.",Negativo
+660,Producto duradero pero el precio es elevado.,Negativo
+661,,Positivo
+662,Llegó rápido pero el tamaño no es el esperado.,Negativo
+663,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+664,El producto falla constantemente. No lo recomiendo.,Negativo
+665,Buen producto aunque la documentación es confusa.,Positivo
+666,  Llegó rápido pero el tamaño no es el esperado.  ,Positivo
+667,Producto defectuoso. Una decepción total.,Negativo
+668,El envío llegó tarde y el producto estaba roto.,Negativo
+669,Producto duradero pero el precio es elevado.,Positivo
+670,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+671,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+672,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+673,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+674,"  Excelente calidad, superó mis expectativas. Compraría de nuevo.  ",Positivo
+675,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+676,Producto defectuoso. Una decepción total.,Negativo
+677,Excelente producto aunque la atención fue lenta.,Negativo
+678,Atención al cliente pésima. Producto de mala calidad.,Negativo
+679,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+680,El producto es duradero y funciona excelentemente.,Positivo
+681,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+682,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+683,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+684,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+685,  El producto es duradero y funciona excelentemente.  ,Positivo
+686,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+687,Producto duradero pero el precio es elevado.,Positivo
+688,,Positivo
+689,Producto duradero pero el precio es elevado.,Negativo
+690,Producto defectuoso. Una decepción total.,Negativo
+691,El envío llegó tarde y el producto estaba roto.,Negativo
+692,Atención al cliente impecable. Producto de gran calidad.,Positivo
+693,,Positivo
+694,Atención al cliente impecable. Producto de gran calidad.,Positivo
+695,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+696,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+697,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+698,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+699,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+700,Buen producto aunque la documentación es confusa.,Positivo
+701,El envío llegó tarde y el producto estaba roto.,Negativo
+702,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+703,,Negativo
+704,El producto es duradero y funciona excelentemente.,Positivo
+705,,Negativo
+706,Excelente compra. El color y tamaño son perfectos.,Positivo
+707,Producto duradero pero el precio es elevado.,Negativo
+708,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+709,,Positivo
+710,Excelente compra. El color y tamaño son perfectos.,Positivo
+711,"Rápido, bien empacado y de buena calidad. Muy contento. #@#&*",Positivo
+712,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+713,Buena calidad pero demasiado caro para el mercado.,Positivo
+714,El envío llegó tarde y el producto estaba roto.,Negativo
+715,Producto defectuoso. Una decepción total.,Negativo
+716,El producto falla constantemente. No lo recomiendo.,Negativo
+717,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+718,Producto duradero pero el precio es elevado.,Negativo
+719,  Muy buen servicio de atención al cliente. Producto duradero.  ,Positivo
+720,El producto es duradero y funciona excelentemente.,Positivo
+721,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+722,Atención al cliente impecable. Producto de gran calidad.,Positivo
+723,Producto duradero pero el precio es elevado.,Negativo
+724,Atención al cliente impecable. Producto de gran calidad.,Positivo
+725,El producto es duradero y funciona excelentemente.,Positivo
+726,Excelente compra. El color y tamaño son perfectos.,Positivo
+727,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+728,Buena calidad pero demasiado caro para el mercado.,Negativo
+729,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+730,El envío fue rápido y el producto es de muy buena calidad. #@#&*,Positivo
+731,,Positivo
+732,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+733,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+734,,Positivo
+735,Excelente compra. El color y tamaño son perfectos.,Positivo
+736,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+737,Excelente compra. El color y tamaño son perfectos.,Positivo
+738,"Mala calidad, roto a los pocos días.",Negativo
+739,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+740,,Negativo
+741,  Rápido en llegar pero el empaque estaba sucio.  ,Negativo
+742,El producto es duradero y funciona excelentemente.,Positivo
+743,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+744,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+745,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+746,"  Excelente calidad, superó mis expectativas. Compraría de nuevo.  ",Positivo
+747,Atención al cliente pésima. Producto de mala calidad.,Negativo
+748,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+749,El producto es duradero y funciona excelentemente.,Positivo
+750,Producto sucio y dañado. No recomendado.,Negativo
+751,El color es excelente pero es frágil y se rompió.,Negativo
+752,Atención al cliente pésima. Producto de mala calidad.,Negativo
+753,Atención al cliente impecable. Producto de gran calidad.,Positivo
+754,,Positivo
+755,El producto es excelente pero el envío llegó tarde.,Positivo
+756,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+757,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+758,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+759,Producto defectuoso. Una decepción total.,Negativo
+760,,Positivo
+761,Llegó rápido pero el tamaño no es el esperado.,Negativo
+762,Producto sucio y dañado. No recomendado.,Negativo
+763,Atención al cliente pésima. Producto de mala calidad. #@#&*,Negativo
+764,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+765,El envío llegó tarde y el producto estaba roto.,Negativo
+766,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+767,Producto defectuoso. Una decepción total.,Negativo
+768,Buen producto aunque la documentación es confusa.,Positivo
+769,Rápido en llegar pero el empaque estaba sucio.,Negativo
+770,Producto duradero pero el precio es elevado.,Negativo
+771,  El tamaño no es lo que esperaba y falla después de poco uso.  ,Negativo
+772,Producto defectuoso. Una decepción total.,Negativo
+773,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+774,El producto es excelente pero el envío llegó tarde.,Negativo
+775,Rápido en llegar pero el empaque estaba sucio.,Positivo
+776,Llegó rápido pero el tamaño no es el esperado.,Positivo
+777,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+778,El producto falla constantemente. No lo recomiendo.,Negativo
+779,  Producto sucio y dañado. No recomendado.  ,Negativo
+780,,Positivo
+781,El color es excelente pero es frágil y se rompió.,Positivo
+782,"Mala calidad, roto a los pocos días.",Negativo
+783,Rápido en llegar pero el empaque estaba sucio.,Positivo
+784,El producto falla constantemente. No lo recomiendo.,Negativo
+785,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+786,Rápido pero de calidad mediocre.,Negativo
+787,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+788,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+789,Buena calidad pero demasiado caro para el mercado.,Positivo
+790,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+791,El color es excelente pero es frágil y se rompió.,Positivo
+792,Buen producto aunque la documentación es confusa.,Positivo
+793,,Positivo
+794,Rápido en llegar pero el empaque estaba sucio.,Negativo
+795,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+796,El producto es excelente pero el envío llegó tarde.,Negativo
+797,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+798,Excelente compra. El color y tamaño son perfectos.,Negativo
+799,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+800,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+801,,Negativo
+802,Producto defectuoso. Una decepción total.,Negativo
+803,Excelente compra. El color y tamaño son perfectos.,Positivo
+804,Buen producto aunque la documentación es confusa. #@#&*,Positivo
+805,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+806,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+807,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+808,"Mala calidad, roto a los pocos días.",Negativo
+809,El color es excelente pero es frágil y se rompió.,Negativo
+810,El producto falla constantemente. No lo recomiendo.,Negativo
+811,Llegó rápido pero el tamaño no es el esperado.,Negativo
+812,  Producto caro y muy lento en funcionar. Gran decepción.  ,Negativo
+813,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+814,Rápido en llegar pero el empaque estaba sucio.,Positivo
+815,Excelente compra. El color y tamaño son perfectos.,Positivo
+816,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+817,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+818,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+819,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+820,Excelente compra. El color y tamaño son perfectos.,Positivo
+821,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+822,"Mala calidad, roto a los pocos días.",Negativo
+823,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+824,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+825,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+826,Producto defectuoso. Una decepción total.,Negativo
+827,Excelente compra. El color y tamaño son perfectos.,Positivo
+828,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+829,El producto es duradero y funciona excelentemente.,Positivo
+830,,Positivo
+831,El producto llegó rápido y en excelente estado. Muy recomendado. #@#&*,Positivo
+832,El producto es duradero y funciona excelentemente.,Positivo
+833,Excelente compra. El color y tamaño son perfectos.,Positivo
+834,,Negativo
+835,Buena calidad pero demasiado caro para el mercado.,Positivo
+836,El producto falla constantemente. No lo recomiendo.,Negativo
+837,El envío llegó tarde y el producto estaba roto.,Negativo
+838,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+839,Excelente compra. El color y tamaño son perfectos.,Positivo
+840,La calidad es excelente y el precio es justo. Muy satisfecho. #@#&*,Positivo
+841,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+842,Buena calidad pero demasiado caro para el mercado.,Positivo
+843,Buen producto aunque la documentación es confusa.,Negativo
+844,El tamaño no es lo que esperaba y falla después de poco uso.,neg
+845,Atención al cliente impecable. Producto de gran calidad.,Positivo
+846,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+847,Buen producto aunque la documentación es confusa.,Positivo
+848,,Positivo
+849,El envío llegó tarde y el producto estaba roto.,Negativo
+850,Atención al cliente impecable. Producto de gran calidad.,Positivo
+851,El color es excelente pero es frágil y se rompió.,Negativo
+852,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+853,Producto defectuoso. Una decepción total.,Negativo
+854,Excelente producto aunque la atención fue lenta.,Negativo
+855,  Producto eficaz y llegó bien empacado. Recomendado.  ,Positivo
+856,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+857,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+858,Producto duradero pero el precio es elevado.,Positivo
+859,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+860,Excelente compra. El color y tamaño son perfectos.,Positivo
+861,Producto eficaz y llegó bien empacado. Recomendado.,POSITIVO
+862,Buen producto aunque la documentación es confusa.,Positivo
+863,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+864,Buen producto aunque la documentación es confusa.,Positivo
+865,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+866,Atención al cliente pésima. Producto de mala calidad.,Negativo
+867,El producto es duradero y funciona excelentemente.,Positivo
+868,El producto es duradero y funciona excelentemente.,Positivo
+869,Excelente compra. El color y tamaño son perfectos.,Positivo
+870,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+871,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+872,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+873,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+874,El producto es duradero y funciona excelentemente.,Positivo
+875,Excelente producto aunque la atención fue lenta.,Negativo
+876,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+877,Producto defectuoso. Una decepción total.,Negativo
+878,,Positivo
+879,Buena calidad pero demasiado caro para el mercado.,Negativo
+880,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+881,El producto falla constantemente. No lo recomiendo.,Negativo
+882,Atención al cliente impecable. Producto de gran calidad.,Positivo
+883,El color es excelente pero es frágil y se rompió.,Negativo
+884,Atención al cliente impecable. Producto de gran calidad.,Positivo
+885,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+886,,Positivo
+887,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+888,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+889,"Mala calidad, roto a los pocos días.",Negativo
+890,Producto sucio y dañado. No recomendado.,POSITIVO
+891,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+892,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+893,Buena calidad pero tiene algunas fallas menores.,
+894,Producto sucio y dañado. No recomendado.,Negativo
+895,Buena calidad pero tiene algunas fallas menores.,Positivo
+896,El color es excelente pero es frágil y se rompió.,Positivo
+897,El color es excelente pero es frágil y se rompió.,Positivo
+898,Excelente compra. El color y tamaño son perfectos.,Positivo
+899,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+900,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+901,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+902,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+903,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+904,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+905,El tamaño no es lo que esperaba y falla después de poco uso. #@#&*,Negativo
+906,"Mala calidad, roto a los pocos días.",Negativo
+907,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+908,Buena calidad pero demasiado caro para el mercado.,Positivo
+909,Llegó rápido pero el tamaño no es el esperado.,Positivo
+910,El envío llegó tarde y el producto estaba roto.,Negativo
+911,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+912,Atención al cliente impecable. Producto de gran calidad.,Positivo
+913,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+914,Empaque sucio y producto defectuoso. Muy insatisfecho.,
+915,Excelente producto aunque la atención fue lenta.,Positivo
+916,El producto es duradero y funciona excelentemente.,Positivo
+917,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+918,Excelente producto aunque la atención fue lenta.,Negativo
+919,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+920,Excelente compra. El color y tamaño son perfectos.,Positivo
+921,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+922,,Positivo
+923,Buena calidad pero demasiado caro para el mercado.,Positivo
+924,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+925,Atención al cliente impecable. Producto de gran calidad.,neg
+926,Rápido en llegar pero el empaque estaba sucio.,Positivo
+927,Atención al cliente pésima. Producto de mala calidad.,Negativo
+928,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+929,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+930,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+931,Atención al cliente impecable. Producto de gran calidad.,Positivo
+932,  Rápido pero de calidad mediocre.  ,Negativo
+933,Atención al cliente impecable. Producto de gran calidad.,Positivo
+934,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+935,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+936,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+937,,Positivo
+938,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+939,El color es excelente pero es frágil y se rompió.,Positivo
+940,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+941,  Muy buen servicio de atención al cliente. Producto duradero.  ,Positivo
+942,Buena calidad pero demasiado caro para el mercado.,Positivo
+943,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+944,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+945,Buena calidad pero demasiado caro para el mercado.,Negativo
+946,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+947,El producto es excelente pero el envío llegó tarde.,Negativo
+948,Producto duradero pero el precio es elevado.,Negativo
+949,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+950,Rápido en llegar pero el empaque estaba sucio.,Positivo
+951,Producto sucio y dañado. No recomendado.,Negativo
+952,Rápido pero de calidad mediocre.,Positivo
+953,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+954,El producto es duradero y funciona excelentemente.,Positivo
+955,Rápido pero de calidad mediocre.,Negativo
+956,Producto duradero pero el precio es elevado.,Negativo
+957,Excelente compra. El color y tamaño son perfectos.,Positivo
+958,El color es excelente pero es frágil y se rompió.,Positivo
+959,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+960,El envío llegó tarde y el producto estaba roto.,Negativo
+961,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+962,Pésima calidad. Muy caro para lo que ofrece.,positivo
+963,"Mala calidad, roto a los pocos días.",Negativo
+964,Producto sucio y dañado. No recomendado.,Negativo
+965,El color es excelente pero es frágil y se rompió.,Negativo
+966,Producto defectuoso. Una decepción total.,Negativo
+967,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+968,"Mala calidad, roto a los pocos días.",Negativo
+969,El producto es duradero y funciona excelentemente.,Positivo
+970,Producto caro y muy lento en funcionar. Gran decepción.,
+971,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+972,Atención al cliente impecable. Producto de gran calidad.,Positivo
+973,El producto es duradero y funciona excelentemente.,Positivo
+974,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+975,Excelente compra. El color y tamaño son perfectos.,Positivo
+976,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+977,El producto es duradero y funciona excelentemente.,Positivo
+978,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+979,El envío llegó tarde y el producto estaba roto.,Negativo
+980,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+981,El producto es duradero y funciona excelentemente.,Positivo
+982,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+983,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+984,El producto es duradero y funciona excelentemente.,Positivo
+985,El producto es duradero y funciona excelentemente.,Positivo
+986,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+987,Atención al cliente impecable. Producto de gran calidad.,Positivo
+988,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+989,Buena calidad pero demasiado caro para el mercado.,Positivo
+990,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+991,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+992,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+993,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+994,"Mala calidad, roto a los pocos días.",Negativo
+995,Excelente producto aunque la atención fue lenta.,Positivo
+996,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+997,Excelente compra. El color y tamaño son perfectos.,Positivo
+998,Buena calidad pero tiene algunas fallas menores.,Positivo
+999,,Negativo
+1000,Producto sucio y dañado. No recomendado.,Negativo
+1001,Buena calidad pero demasiado caro para el mercado.,Positivo
+1002,,Positivo
+1003,El producto falla constantemente. No lo recomiendo.,Negativo
+1004,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1005,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1006,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1007,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1008,El producto falla constantemente. No lo recomiendo.,Negativo
+1009,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1010,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1011,El envío llegó tarde y el producto estaba roto.,Negativo
+1012,El producto falla constantemente. No lo recomiendo.,Negativo
+1013,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1014,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1015,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1016,,Negativo
+1017,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1018,El producto es duradero y funciona excelentemente.,Positivo
+1019,Excelente producto aunque la atención fue lenta.,Negativo
+1020,Producto duradero pero el precio es elevado.,Positivo
+1021,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1022,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1023,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1024,El producto falla constantemente. No lo recomiendo.,Negativo
+1025,Excelente producto aunque la atención fue lenta.,Positivo
+1026,Excelente producto aunque la atención fue lenta.,Positivo
+1027,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1028,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1029,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1030,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1031,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1032,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1033,Producto duradero pero el precio es elevado.,Negativo
+1034,Excelente producto aunque la atención fue lenta.,Negativo
+1035,Atención al cliente impecable. Producto de gran calidad. #@#&*,Positivo
+1036,Producto defectuoso. Una decepción total.,Negativo
+1037,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1038,,Positivo
+1039,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1040,El producto es duradero y funciona excelentemente.,Positivo
+1041,El producto es duradero y funciona excelentemente.,Positivo
+1042,El envío llegó tarde y el producto estaba roto.,Negativo
+1043,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1044,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1045,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1046,Llegó rápido pero el tamaño no es el esperado. #@#&*,Negativo
+1047,  Rápido en llegar pero el empaque estaba sucio.  ,Positivo
+1048,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1049,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1050,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1051,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1052,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1053,Producto duradero pero el precio es elevado.,Negativo
+1054,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1055,Buena calidad pero tiene algunas fallas menores.,Positivo
+1056,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1057,Muy buen servicio de atención al cliente. Producto duradero.,POSITIVO
+1058,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1059,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1060,Excelente compra. El color y tamaño son perfectos.,Positivo
+1061,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1062,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1063,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1064,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1065,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1066,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1067,El envío llegó tarde y el producto estaba roto.,Negativo
+1068,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1069,Producto duradero pero el precio es elevado.,Positivo
+1070,El color es excelente pero es frágil y se rompió.,Negativo
+1071,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1072,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1073,Buena calidad pero tiene algunas fallas menores.,Positivo
+1074,El producto es excelente pero el envío llegó tarde.,Negativo
+1075,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1076,El envío llegó tarde y el producto estaba roto.,Negativo
+1077,Buena calidad pero tiene algunas fallas menores.,Negativo
+1078,El producto llegó rápido y en excelente estado. Muy recomendado.,
+1079,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1080,El envío llegó tarde y el producto estaba roto.,Negativo
+1081,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1082,Rápido pero de calidad mediocre.,Positivo
+1083,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1084,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1085,Excelente producto aunque la atención fue lenta.,Negativo
+1086,"Mala calidad, roto a los pocos días.",Negativo
+1087,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1088,El envío llegó tarde y el producto estaba roto.,Negativo
+1089,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1090,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1091,El producto llegó rápido y en excelente estado. Muy recomendado.,neg
+1092,Atención al cliente pésima. Producto de mala calidad.,
+1093,Producto sucio y dañado. No recomendado.,Negativo
+1094,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1095,Buena calidad pero demasiado caro para el mercado. #@#&*,Negativo
+1096,El producto es duradero y funciona excelentemente.,Positivo
+1097,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1098,El producto es duradero y funciona excelentemente.,Positivo
+1099,Excelente compra. El color y tamaño son perfectos.,Positivo
+1100,El producto es duradero y funciona excelentemente.,Positivo
+1101,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1102,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1103,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1104,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1105,Producto defectuoso. Una decepción total.,Negativo
+1106,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1107,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1108,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1109,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1110,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1111,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1112,Producto sucio y dañado. No recomendado.,Negativo
+1113,Buena calidad pero tiene algunas fallas menores.,Negativo
+1114,El producto es excelente pero el envío llegó tarde.,Positivo
+1115,"Mala calidad, roto a los pocos días.",Negativo
+1116,"Mala calidad, roto a los pocos días.",positivo
+1117,"Mala calidad, roto a los pocos días. #@#&*",Negativo
+1118,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1119,Excelente producto aunque la atención fue lenta.,Positivo
+1120,,Negativo
+1121,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1122,Excelente compra. El color y tamaño son perfectos.,Positivo
+1123,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1124,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1125,El tamaño no es lo que esperaba y falla después de poco uso.,neg
+1126,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1127,Rápido pero de calidad mediocre.,Positivo
+1128,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1129,Producto eficaz y llegó bien empacado. Recomendado. #@#&*,Positivo
+1130,Buena calidad pero tiene algunas fallas menores.,Positivo
+1131,Rápido pero de calidad mediocre.,Positivo
+1132,Producto defectuoso. Una decepción total.,Negativo
+1133,"Mala calidad, roto a los pocos días.",Positivo
+1134,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1135,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1136,Producto sucio y dañado. No recomendado.,Negativo
+1137,El envío llegó tarde y el producto estaba roto.,Negativo
+1138,Excelente compra. El color y tamaño son perfectos.,Positivo
+1139,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1140,El color es excelente pero es frágil y se rompió.,Positivo
+1141,Llegó rápido pero el tamaño no es el esperado.,Positivo
+1142,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1143,"Mala calidad, roto a los pocos días.",Negativo
+1144,"Rápido, bien empacado y de buena calidad. Muy contento. #@#&*",Positivo
+1145,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1146,El producto falla constantemente. No lo recomiendo.,Negativo
+1147,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1148,Producto duradero pero el precio es elevado. #@#&*,Positivo
+1149,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1150,El producto es duradero y funciona excelentemente.,Positivo
+1151,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1152,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1153,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1154,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1155,El envío fue rápido y el producto es de muy buena calidad. #@#&*,Positivo
+1156,Producto duradero pero el precio es elevado.,Positivo
+1157,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1158,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1159,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1160,El producto es duradero y funciona excelentemente.,Positivo
+1161,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1162,Rápido pero de calidad mediocre.,Positivo
+1163,,Positivo
+1164,Rápido pero de calidad mediocre.,Negativo
+1165,Producto sucio y dañado. No recomendado.,Negativo
+1166,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1167,Excelente compra. El color y tamaño son perfectos.,Positivo
+1168,,Positivo
+1169,,Positivo
+1170,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",neg
+1171,Producto eficaz y llegó bien empacado. Recomendado.,Negativo
+1172,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1173,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1174,  Buena calidad pero tiene algunas fallas menores.  ,Negativo
+1175,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1176,Producto defectuoso. Una decepción total.,Negativo
+1177,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1178,"  Excelente calidad, superó mis expectativas. Compraría de nuevo.  ",Positivo
+1179,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1180,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1181,,Negativo
+1182,Producto duradero pero el precio es elevado.,Negativo
+1183,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1184,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1185,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1186,El color es excelente pero es frágil y se rompió.,Negativo
+1187,Excelente compra. El color y tamaño son perfectos.,Positivo
+1188,Producto sucio y dañado. No recomendado.,neg
+1189,Buena calidad pero tiene algunas fallas menores.,Positivo
+1190,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1191,Buen producto aunque la documentación es confusa.,Positivo
+1192,"  Rápido, bien empacado y de buena calidad. Muy contento.  ",Positivo
+1193,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1194,  Rápido pero de calidad mediocre.  ,Positivo
+1195,Excelente compra. El color y tamaño son perfectos.,Positivo
+1196,Excelente compra. El color y tamaño son perfectos.,Positivo
+1197,Excelente compra. El color y tamaño son perfectos.,Positivo
+1198,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1199,Producto sucio y dañado. No recomendado.,Negativo
+1200,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1201,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1202,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1203,Buena calidad pero tiene algunas fallas menores.,Positivo
+1204,Producto defectuoso. Una decepción total.,Negativo
+1205,Producto defectuoso. Una decepción total.,Negativo
+1206,  Atención al cliente impecable. Producto de gran calidad.  ,Positivo
+1207,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1208,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1209,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1210,El envío llegó tarde y el producto estaba roto.,Negativo
+1211,"Mala calidad, roto a los pocos días.",Negativo
+1212,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1213,El envío llegó tarde y el producto estaba roto.,Negativo
+1214,Rápido pero de calidad mediocre.,Positivo
+1215,El color es excelente pero es frágil y se rompió.,Positivo
+1216,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1217,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1218,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1219,,Negativo
+1220,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1221,Buena calidad pero demasiado caro para el mercado.,Positivo
+1222,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1223,El envío llegó tarde y el producto estaba roto.,Negativo
+1224,El color es excelente pero es frágil y se rompió. #@#&*,Negativo
+1225,"Mala calidad, roto a los pocos días.",Negativo
+1226,El producto falla constantemente. No lo recomiendo.,Negativo
+1227,Producto defectuoso. Una decepción total.,Negativo
+1228,Excelente compra. El color y tamaño son perfectos.,Positivo
+1229,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1230,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1231,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1232,Excelente compra. El color y tamaño son perfectos.,Positivo
+1233,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1234,Excelente compra. El color y tamaño son perfectos.,Positivo
+1235,Producto duradero pero el precio es elevado.,Negativo
+1236,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1237,Rápido pero de calidad mediocre.,Positivo
+1238,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1239,El producto es excelente pero el envío llegó tarde.,Negativo
+1240,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1241,Buena calidad pero demasiado caro para el mercado.,Negativo
+1242,,Negativo
+1243,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1244,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1245,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1246,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1247,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1248,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1249,  El producto llegó rápido y en excelente estado. Muy recomendado.  ,Positivo
+1250,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1251,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1252,Buena calidad pero demasiado caro para el mercado. #@#&*,Negativo
+1253,El envío llegó tarde y el producto estaba roto.,Negativo
+1254,Producto sucio y dañado. No recomendado.,Negativo
+1255,Llegó rápido pero el tamaño no es el esperado.,Positivo
+1256,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1257,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1258,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1259,Buena calidad pero tiene algunas fallas menores.,Negativo
+1260,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1261,Llegó rápido pero el tamaño no es el esperado.,Positivo
+1262,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1263,El envío llegó tarde y el producto estaba roto.,Negativo
+1264,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1265,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1266,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1267,,Negativo
+1268,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1269,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1270,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1271,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1272,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1273,  Excelente compra. El color y tamaño son perfectos.  ,Positivo
+1274,El producto es excelente pero el envío llegó tarde.,Negativo
+1275,Buena calidad pero demasiado caro para el mercado.,Negativo
+1276,Buena calidad pero tiene algunas fallas menores.,Negativo
+1277,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1278,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1279,Producto defectuoso. Una decepción total.,Negativo
+1280,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1281,,Negativo
+1282,Rápido pero de calidad mediocre.,Negativo
+1283,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1284,El producto es excelente pero el envío llegó tarde.,Negativo
+1285,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1286,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1287,  Excelente compra. El color y tamaño son perfectos.  ,Positivo
+1288,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1289,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1290,Producto defectuoso. Una decepción total.,Negativo
+1291,,Positivo
+1292,Buena calidad pero demasiado caro para el mercado.,Negativo
+1293,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1294,Excelente producto aunque la atención fue lenta.,Negativo
+1295,Producto duradero pero el precio es elevado.,Positivo
+1296,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1297,,Positivo
+1298,El producto es excelente pero el envío llegó tarde.,Positivo
+1299,"Rápido, bien empacado y de buena calidad. Muy contento.",positivo
+1300,El envío llegó tarde y el producto estaba roto.,Negativo
+1301,Excelente compra. El color y tamaño son perfectos.,Positivo
+1302,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1303,Producto sucio y dañado. No recomendado.,Negativo
+1304,,Positivo
+1305,El producto es duradero y funciona excelentemente.,Positivo
+1306,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1307,El envío llegó tarde y el producto estaba roto.,Negativo
+1308,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1309,El producto falla constantemente. No lo recomiendo.,Negativo
+1310,  Excelente compra. El color y tamaño son perfectos.  ,Positivo
+1311,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1312,Buena calidad pero demasiado caro para el mercado.,Negativo
+1313,El envío llegó tarde y el producto estaba roto.,Negativo
+1314,El producto es excelente pero el envío llegó tarde.,Negativo
+1315,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1316,,Positivo
+1317,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1318,Buena calidad pero tiene algunas fallas menores.,Positivo
+1319,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1320,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1321,  Producto eficaz y llegó bien empacado. Recomendado.  ,Positivo
+1322,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1323,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1324,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1325,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1326,El producto es duradero y funciona excelentemente.,Positivo
+1327,Buen producto aunque la documentación es confusa.,Positivo
+1328,,Positivo
+1329,El envío llegó tarde y el producto estaba roto.,Negativo
+1330,Rápido pero de calidad mediocre.,Positivo
+1331,"Mala calidad, roto a los pocos días.",Negativo
+1332,Producto sucio y dañado. No recomendado.,Negativo
+1333,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1334,  Buena calidad pero demasiado caro para el mercado.  ,Positivo
+1335,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",positivo
+1336,Producto defectuoso. Una decepción total.,Negativo
+1337,Producto sucio y dañado. No recomendado.,Negativo
+1338,Rápido pero de calidad mediocre.,Negativo
+1339,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1340,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1341,El producto falla constantemente. No lo recomiendo.,Negativo
+1342,El envío llegó tarde y el producto estaba roto.,Negativo
+1343,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1344,El producto es excelente pero el envío llegó tarde.,Negativo
+1345,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1346,Buen producto aunque la documentación es confusa. #@#&*,Negativo
+1347,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1348,  Producto defectuoso. Una decepción total.  ,Negativo
+1349,Buena calidad pero demasiado caro para el mercado.,Negativo
+1350,El producto es duradero y funciona excelentemente.,Positivo
+1351,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1352,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1353,,Negativo
+1354,El producto es duradero y funciona excelentemente.,Positivo
+1355,Llegó rápido pero el tamaño no es el esperado.,Positivo
+1356,Buen producto aunque la documentación es confusa.,Negativo
+1357,Excelente producto aunque la atención fue lenta.,Positivo
+1358,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1359,El producto es duradero y funciona excelentemente.,Positivo
+1360,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1361,El producto es duradero y funciona excelentemente.,Positivo
+1362,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1363,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1364,Producto defectuoso. Una decepción total.,Negativo
+1365,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1366,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1367,Excelente compra. El color y tamaño son perfectos.,Positivo
+1368,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1369,El producto es duradero y funciona excelentemente.,Positivo
+1370,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1371,Producto sucio y dañado. No recomendado.,Negativo
+1372,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1373,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1374,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1375,Buena calidad pero demasiado caro para el mercado.,Negativo
+1376,El producto es excelente pero el envío llegó tarde.,Positivo
+1377,Producto eficaz y llegó bien empacado. Recomendado. #@#&*,Positivo
+1378,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1379,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1380,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1381,  El envío fue rápido y el producto es de muy buena calidad.  ,Positivo
+1382,El producto es duradero y funciona excelentemente.,Positivo
+1383,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1384,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1385,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1386,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1387,Buena calidad pero tiene algunas fallas menores.,Positivo
+1388,"Mala calidad, roto a los pocos días.",Negativo
+1389,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1390,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1391,Excelente compra. El color y tamaño son perfectos.,Positivo
+1392,Producto sucio y dañado. No recomendado.,Negativo
+1393,El producto llegó rápido y en excelente estado. Muy recomendado.,
+1394,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1395,El producto es duradero y funciona excelentemente.,Positivo
+1396,Producto defectuoso. Una decepción total.,Negativo
+1397,Excelente producto aunque la atención fue lenta.,Negativo
+1398,El envío llegó tarde y el producto estaba roto.,Negativo
+1399,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1400,,Negativo
+1401,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1402,Producto sucio y dañado. No recomendado.,Negativo
+1403,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1404,Excelente compra. El color y tamaño son perfectos.,Positivo
+1405,El envío llegó tarde y el producto estaba roto.,Negativo
+1406,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1407,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1408,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1409,,Positivo
+1410,Empaque sucio y producto defectuoso. Muy insatisfecho. #@#&*,Negativo
+1411,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1412,,Negativo
+1413,Producto defectuoso. Una decepción total.,Negativo
+1414,Excelente compra. El color y tamaño son perfectos.,Positivo
+1415,El color es excelente pero es frágil y se rompió.,Positivo
+1416,Excelente compra. El color y tamaño son perfectos.,
+1417,El producto es duradero y funciona excelentemente.,Positivo
+1418,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1419,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1420,Atención al cliente pésima. Producto de mala calidad. #@#&*,Negativo
+1421,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1422,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1423,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1424,El producto es duradero y funciona excelentemente.,Positivo
+1425,,Positivo
+1426,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1427,Producto defectuoso. Una decepción total.,Negativo
+1428,Producto duradero pero el precio es elevado.,Negativo
+1429,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1430,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1431,Buena calidad pero tiene algunas fallas menores.,Positivo
+1432,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1433,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1434,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1435,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1436,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1437,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1438,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1439,El producto es excelente pero el envío llegó tarde.,Negativo
+1440,Excelente producto aunque la atención fue lenta. #@#&*,Negativo
+1441,Buena calidad pero demasiado caro para el mercado.,Positivo
+1442,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1443,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1444,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1445,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1446,Excelente compra. El color y tamaño son perfectos. #@#&*,Positivo
+1447,"Mala calidad, roto a los pocos días.",Negativo
+1448,El producto falla constantemente. No lo recomiendo.,Negativo
+1449,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1450,El producto es duradero y funciona excelentemente.,Positivo
+1451,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1452,El producto es duradero y funciona excelentemente.,Positivo
+1453,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1454,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1455,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1456,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1457,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1458,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1459,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1460,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1461,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1462,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1463,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1464,Excelente compra. El color y tamaño son perfectos.,Positivo
+1465,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1466,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1467,,Negativo
+1468,El producto falla constantemente. No lo recomiendo.,Negativo
+1469,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1470,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1471,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1472,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1473,Llegó rápido pero el tamaño no es el esperado. #@#&*,Negativo
+1474,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1475,,Positivo
+1476,Rápido pero de calidad mediocre.,Positivo
+1477,Buen producto aunque la documentación es confusa.,Negativo
+1478,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1479,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1480,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1481,Producto sucio y dañado. No recomendado.,Negativo
+1482,"Mala calidad, roto a los pocos días.",Negativo
+1483,"Mala calidad, roto a los pocos días.",Negativo
+1484,El producto es duradero y funciona excelentemente.,Positivo
+1485,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1486,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1487,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1488,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1489,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1490,,Positivo
+1491,Excelente producto aunque la atención fue lenta.,Negativo
+1492,Producto sucio y dañado. No recomendado.,Negativo
+1493,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1494,El producto es duradero y funciona excelentemente.,Positivo
+1495,Rápido pero de calidad mediocre.,Positivo
+1496,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1497,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1498,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1499,El producto es duradero y funciona excelentemente.,Positivo
+1500,Rápido pero de calidad mediocre.,Positivo
+1501,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1502,"Mala calidad, roto a los pocos días.",Negativo
+1503,El producto falla constantemente. No lo recomiendo.,Negativo
+1504,El color es excelente pero es frágil y se rompió.,Positivo
+1505,Rápido en llegar pero el empaque estaba sucio.,positivo
+1506,El envío llegó tarde y el producto estaba roto.,Negativo
+1507,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1508,Excelente compra. El color y tamaño son perfectos.,Positivo
+1509,Producto defectuoso. Una decepción total.,Negativo
+1510,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1511,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1512,Producto defectuoso. Una decepción total.,Negativo
+1513,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1514,"Mala calidad, roto a los pocos días.",Negativo
+1515,El envío llegó tarde y el producto estaba roto.,Negativo
+1516,Buena calidad pero tiene algunas fallas menores.,Negativo
+1517,  El tamaño no es lo que esperaba y falla después de poco uso.  ,Negativo
+1518,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1519,El envío llegó tarde y el producto estaba roto.,Negativo
+1520,,Negativo
+1521,"  Rápido, bien empacado y de buena calidad. Muy contento.  ",Positivo
+1522,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1523,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1524,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1525,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1526,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1527,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1528,,Negativo
+1529,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1530,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1531,,Positivo
+1532,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1533,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1534,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1535,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1536,Llegó rápido pero el tamaño no es el esperado.,Positivo
+1537,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1538,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1539,Excelente compra. El color y tamaño son perfectos.,Positivo
+1540,Buen producto aunque la documentación es confusa.,Negativo
+1541,El color es excelente pero es frágil y se rompió.,Negativo
+1542,,Positivo
+1543,Rápido pero de calidad mediocre.,POSITIVO
+1544,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1545,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1546,Buen producto aunque la documentación es confusa.,Negativo
+1547,El producto es duradero y funciona excelentemente.,Positivo
+1548,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1549,Buena calidad pero demasiado caro para el mercado.,Positivo
+1550,,Positivo
+1551,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1552,El producto es duradero y funciona excelentemente.,Positivo
+1553,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1554,  El producto es duradero y funciona excelentemente.  ,Positivo
+1555,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1556,El producto falla constantemente. No lo recomiendo.,Negativo
+1557,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1558,El producto es duradero y funciona excelentemente.,Positivo
+1559,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1560,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1561,  Producto defectuoso. Una decepción total.  ,Negativo
+1562,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1563,Rápido en llegar pero el empaque estaba sucio.,positivo
+1564,El producto es duradero y funciona excelentemente.,Positivo
+1565,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1566,El envío llegó tarde y el producto estaba roto.,Negativo
+1567,El envío llegó tarde y el producto estaba roto.,Negativo
+1568,El envío llegó tarde y el producto estaba roto.,Negativo
+1569,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1570,El producto es duradero y funciona excelentemente.,Positivo
+1571,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1572,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1573,Producto sucio y dañado. No recomendado.,Negativo
+1574,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1575,Buena calidad pero tiene algunas fallas menores.,Positivo
+1576,Producto duradero pero el precio es elevado.,Positivo
+1577,Producto sucio y dañado. No recomendado.,Negativo
+1578,El producto es excelente pero el envío llegó tarde.,Negativo
+1579,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1580,El producto es excelente pero el envío llegó tarde.,Negativo
+1581,Rápido pero de calidad mediocre.,Negativo
+1582,El producto es duradero y funciona excelentemente.,Positivo
+1583,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1584,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1585,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1586,"Mala calidad, roto a los pocos días.",Negativo
+1587,Buena calidad pero tiene algunas fallas menores.,Positivo
+1588,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1589,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1590,Excelente compra. El color y tamaño son perfectos.,Positivo
+1591,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1592,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1593,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1594,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1595,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1596,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1597,Buena calidad pero demasiado caro para el mercado.,Positivo
+1598,Producto defectuoso. Una decepción total.,Negativo
+1599,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1600,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1601,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1602,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1603,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1604,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1605,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1606,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1607,El producto falla constantemente. No lo recomiendo.,Negativo
+1608,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1609,El producto falla constantemente. No lo recomiendo.,Negativo
+1610,Producto sucio y dañado. No recomendado.,Negativo
+1611,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1612,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1613,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1614,El color es excelente pero es frágil y se rompió.,Positivo
+1615,Excelente compra. El color y tamaño son perfectos.,Positivo
+1616,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1617,El producto falla constantemente. No lo recomiendo.,Negativo
+1618,La calidad es excelente y el precio es justo. Muy satisfecho.,
+1619,Rápido pero de calidad mediocre.,Positivo
+1620,Producto eficaz y llegó bien empacado. Recomendado.,neg
+1621,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1622,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1623,"Mala calidad, roto a los pocos días.",Negativo
+1624,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1625,El producto es duradero y funciona excelentemente.,Positivo
+1626,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1627,La calidad es excelente y el precio es justo. Muy satisfecho. #@#&*,Positivo
+1628,Excelente compra. El color y tamaño son perfectos. #@#&*,Positivo
+1629,Producto defectuoso. Una decepción total.,Negativo
+1630,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1631,El producto es duradero y funciona excelentemente.,Positivo
+1632,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1633,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1634,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1635,Excelente producto aunque la atención fue lenta.,Positivo
+1636,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1637,El color es excelente pero es frágil y se rompió.,Positivo
+1638,Producto defectuoso. Una decepción total.,Negativo
+1639,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1640,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1641,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1642,  Muy buen servicio de atención al cliente. Producto duradero.  ,Positivo
+1643,Producto sucio y dañado. No recomendado.,Negativo
+1644,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1645,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1646,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1647,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1648,Excelente compra. El color y tamaño son perfectos.,Positivo
+1649,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1650,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1651,El producto es excelente pero el envío llegó tarde.,Positivo
+1652,El producto falla constantemente. No lo recomiendo.,Negativo
+1653,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1654,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1655,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1656,Buen producto aunque la documentación es confusa.,Negativo
+1657,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1658,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1659,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1660,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1661,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1662,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1663,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1664,El envío llegó tarde y el producto estaba roto.,Negativo
+1665,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1666,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1667,El color es excelente pero es frágil y se rompió.,Positivo
+1668,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1669,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1670,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1671,Atención al cliente impecable. Producto de gran calidad. #@#&*,Positivo
+1672,Producto defectuoso. Una decepción total.,Negativo
+1673,El envío llegó tarde y el producto estaba roto.,Negativo
+1674,Producto sucio y dañado. No recomendado.,Negativo
+1675,El producto falla constantemente. No lo recomiendo.,Negativo
+1676,,Negativo
+1677,El producto es duradero y funciona excelentemente.,Positivo
+1678,Producto caro y muy lento en funcionar. Gran decepción. #@#&*,Negativo
+1679,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1680,El producto es duradero y funciona excelentemente.,Positivo
+1681,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1682,El producto es excelente pero el envío llegó tarde.,Positivo
+1683,Producto sucio y dañado. No recomendado.,Negativo
+1684,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1685,El color es excelente pero es frágil y se rompió.,Negativo
+1686,El color es excelente pero es frágil y se rompió.,Positivo
+1687,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1688,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1689,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1690,El producto es duradero y funciona excelentemente.,neg
+1691,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1692,Producto defectuoso. Una decepción total.,Negativo
+1693,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1694,,Positivo
+1695,Buena calidad pero demasiado caro para el mercado.,Positivo
+1696,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1697,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1698,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1699,Excelente compra. El color y tamaño son perfectos.,Positivo
+1700,  El color es excelente pero es frágil y se rompió.  ,Negativo
+1701,Llegó rápido pero el tamaño no es el esperado.,Positivo
+1702,El envío llegó tarde y el producto estaba roto.,Negativo
+1703,Buena calidad pero demasiado caro para el mercado.,Negativo
+1704,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1705,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1706,El producto es duradero y funciona excelentemente.,Positivo
+1707,El producto es excelente pero el envío llegó tarde.,Negativo
+1708,  Excelente compra. El color y tamaño son perfectos.  ,Positivo
+1709,Buena calidad pero demasiado caro para el mercado.,Negativo
+1710,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1711,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1712,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1713,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1714,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1715,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1716,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1717,Buen producto aunque la documentación es confusa.,Negativo
+1718,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1719,,Positivo
+1720,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1721,Excelente producto aunque la atención fue lenta.,Negativo
+1722,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1723,Excelente compra. El color y tamaño son perfectos.,Positivo
+1724,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1725,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1726,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1727,El color es excelente pero es frágil y se rompió.,Positivo
+1728,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1729,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1730,Muy buen servicio de atención al cliente. Producto duradero. #@#&*,Positivo
+1731,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1732,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1733,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1734,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1735,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1736,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1737,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1738,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1739,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1740,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1741,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1742,El envío llegó tarde y el producto estaba roto.,Negativo
+1743,"Mala calidad, roto a los pocos días.",Negativo
+1744,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1745,Excelente compra. El color y tamaño son perfectos.,Positivo
+1746,,Positivo
+1747,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1748,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1749,El producto es duradero y funciona excelentemente.,Positivo
+1750,Atención al cliente impecable. Producto de gran calidad.,Negativo
+1751,Producto duradero pero el precio es elevado.,Positivo
+1752,Excelente compra. El color y tamaño son perfectos.,Positivo
+1753,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1754,El producto falla constantemente. No lo recomiendo.,Negativo
+1755,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1756,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1757,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1758,El envío llegó tarde y el producto estaba roto.,Negativo
+1759,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1760,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1761,El producto es duradero y funciona excelentemente.,Positivo
+1762,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1763,  Excelente compra. El color y tamaño son perfectos.  ,Positivo
+1764,Producto sucio y dañado. No recomendado.,Negativo
+1765,Excelente compra. El color y tamaño son perfectos.,Positivo
+1766,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1767,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1768,El producto es duradero y funciona excelentemente.,Positivo
+1769,El producto es excelente pero el envío llegó tarde.,Positivo
+1770,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1771,El color es excelente pero es frágil y se rompió.,Positivo
+1772,  Buen producto aunque la documentación es confusa.  ,Negativo
+1773,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1774,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1775,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1776,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1777,El producto es duradero y funciona excelentemente.,
+1778,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1779,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1780,Excelente compra. El color y tamaño son perfectos.,Positivo
+1781,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1782,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1783,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1784,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1785,,Negativo
+1786,El producto es duradero y funciona excelentemente.,Positivo
+1787,Buena calidad pero demasiado caro para el mercado.,Negativo
+1788,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1789,El envío llegó tarde y el producto estaba roto.,Negativo
+1790,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1791,El producto es duradero y funciona excelentemente.,Positivo
+1792,,Positivo
+1793,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1794,El producto falla constantemente. No lo recomiendo.,Negativo
+1795,El producto es excelente pero el envío llegó tarde.,Positivo
+1796,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1797,,Negativo
+1798,Producto defectuoso. Una decepción total.,Negativo
+1799,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1800,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1801,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1802,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1803,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1804,Empaque sucio y producto defectuoso. Muy insatisfecho. #@#&*,Negativo
+1805,Excelente producto aunque la atención fue lenta.,Negativo
+1806,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1807,Excelente compra. El color y tamaño son perfectos.,Positivo
+1808,Excelente compra. El color y tamaño son perfectos.,Positivo
+1809,Buena calidad pero tiene algunas fallas menores.,Positivo
+1810,Producto defectuoso. Una decepción total.,Negativo
+1811,El producto es duradero y funciona excelentemente.,Positivo
+1812,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1813,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1814,El producto falla constantemente. No lo recomiendo.,Negativo
+1815,,Negativo
+1816,El producto es duradero y funciona excelentemente.,Positivo
+1817,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1818,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1819,El color es excelente pero es frágil y se rompió.,Negativo
+1820,El color es excelente pero es frágil y se rompió.,Negativo
+1821,El color es excelente pero es frágil y se rompió.,Positivo
+1822,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1823,Buena calidad pero tiene algunas fallas menores.,Positivo
+1824,Buen producto aunque la documentación es confusa.,Positivo
+1825,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1826,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1827,El producto es duradero y funciona excelentemente.,Positivo
+1828,Buen producto aunque la documentación es confusa.,Negativo
+1829,Muy buen servicio de atención al cliente. Producto duradero. #@#&*,Positivo
+1830,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1831,El color es excelente pero es frágil y se rompió.,Positivo
+1832,El producto es duradero y funciona excelentemente.,Positivo
+1833,El envío fue rápido y el producto es de muy buena calidad.,neg
+1834,El producto es duradero y funciona excelentemente.,Positivo
+1835,Rápido en llegar pero el empaque estaba sucio.,Positivo
+1836,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1837,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1838,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1839,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1840,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1841,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1842,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1843,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1844,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1845,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1846,Buen producto aunque la documentación es confusa.,Positivo
+1847,,Positivo
+1848,Producto duradero pero el precio es elevado.,Positivo
+1849,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1850,Producto defectuoso. Una decepción total.,Negativo
+1851,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1852,El envío llegó tarde y el producto estaba roto.,Negativo
+1853,Excelente producto aunque la atención fue lenta.,Negativo
+1854,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1855,Buena calidad pero demasiado caro para el mercado.,Positivo
+1856,El envío llegó tarde y el producto estaba roto.,Negativo
+1857,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1858,Excelente compra. El color y tamaño son perfectos.,Positivo
+1859,El producto falla constantemente. No lo recomiendo.,Negativo
+1860,Buena calidad pero demasiado caro para el mercado.,Positivo
+1861,,Negativo
+1862,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1863,Excelente producto aunque la atención fue lenta.,Positivo
+1864,Llegó rápido pero el tamaño no es el esperado.,Negativo
+1865,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1866,,Positivo
+1867,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1868,Producto duradero pero el precio es elevado.,Negativo
+1869,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1870,,Negativo
+1871,El producto es duradero y funciona excelentemente.,Positivo
+1872,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1873,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1874,El producto es excelente pero el envío llegó tarde.,Positivo
+1875,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1876,,Negativo
+1877,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1878,"Mala calidad, roto a los pocos días.",Negativo
+1879,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1880,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1881,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1882,El producto es excelente pero el envío llegó tarde.,Negativo
+1883,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1884,El envío llegó tarde y el producto estaba roto.,Negativo
+1885,Rápido pero de calidad mediocre.,Positivo
+1886,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1887,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1888,Rápido en llegar pero el empaque estaba sucio.,Negativo
+1889,  La calidad es excelente y el precio es justo. Muy satisfecho.  ,Positivo
+1890,Buena calidad pero demasiado caro para el mercado.,Negativo
+1891,Producto sucio y dañado. No recomendado.,Negativo
+1892,Excelente producto aunque la atención fue lenta.,Positivo
+1893,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1894,"Mala calidad, roto a los pocos días.",Negativo
+1895,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1896,El producto es excelente pero el envío llegó tarde.,Negativo
+1897,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1898,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+1899,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1900,Atención al cliente pésima. Producto de mala calidad.,POSITIVO
+1901,Excelente producto aunque la atención fue lenta.,Negativo
+1902,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1903,Rápido pero de calidad mediocre.,Negativo
+1904,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1905,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1906,,Positivo
+1907,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1908,"Mala calidad, roto a los pocos días.",Negativo
+1909,Excelente compra. El color y tamaño son perfectos.,Positivo
+1910,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1911,,Negativo
+1912,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1913,"Mala calidad, roto a los pocos días.",Negativo
+1914,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1915,Buena calidad pero tiene algunas fallas menores.,Negativo
+1916,Producto sucio y dañado. No recomendado.,Negativo
+1917,Producto sucio y dañado. No recomendado.,Negativo
+1918,Llegó rápido pero el tamaño no es el esperado.,Positivo
+1919,El color es excelente pero es frágil y se rompió.,Positivo
+1920,Excelente producto aunque la atención fue lenta.,Negativo
+1921,Pésima calidad. Muy caro para lo que ofrece.,Positivo
+1922,Producto duradero pero el precio es elevado.,Negativo
+1923,Buena calidad pero tiene algunas fallas menores.,Negativo
+1924,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1925,Atención al cliente pésima. Producto de mala calidad.,Negativo
+1926,,Positivo
+1927,El envío llegó tarde y el producto estaba roto.,Negativo
+1928,Producto sucio y dañado. No recomendado.,Negativo
+1929,El color es excelente pero es frágil y se rompió.,Positivo
+1930,,Positivo
+1931,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1932,Rápido pero de calidad mediocre.,Negativo
+1933,Producto sucio y dañado. No recomendado.,Negativo
+1934,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1935,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1936,El producto falla constantemente. No lo recomiendo.,Negativo
+1937,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1938,"Mala calidad, roto a los pocos días.",Negativo
+1939,,Positivo
+1940,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+1941,El producto es excelente pero el envío llegó tarde.,Negativo
+1942,El color es excelente pero es frágil y se rompió.,Positivo
+1943,El producto es excelente pero el envío llegó tarde.,Negativo
+1944,Excelente compra. El color y tamaño son perfectos.,Positivo
+1945,El producto es excelente pero el envío llegó tarde.,Positivo
+1946,El envío llegó tarde y el producto estaba roto.,Negativo
+1947,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1948,Excelente compra. El color y tamaño son perfectos.,Positivo
+1949,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1950,El producto es duradero y funciona excelentemente.,Positivo
+1951,Producto duradero pero el precio es elevado.,Positivo
+1952,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1953,,Negativo
+1954,Excelente compra. El color y tamaño son perfectos.,Positivo
+1955,Excelente compra. El color y tamaño son perfectos.,Positivo
+1956,Excelente compra. El color y tamaño son perfectos.,Positivo
+1957,Buena calidad pero demasiado caro para el mercado.,Negativo
+1958,El producto es duradero y funciona excelentemente.,Positivo
+1959,  Buena calidad pero tiene algunas fallas menores.  ,Positivo
+1960,El producto es duradero y funciona excelentemente.,Positivo
+1961,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1962,,Positivo
+1963,Rápido pero de calidad mediocre.,Negativo
+1964,El envío fue rápido y el producto es de muy buena calidad. #@#&*,Positivo
+1965,El producto falla constantemente. No lo recomiendo.,Negativo
+1966,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1967,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1968,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1969,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+1970,Atención al cliente impecable. Producto de gran calidad.,Positivo
+1971,Excelente compra. El color y tamaño son perfectos.,Positivo
+1972,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1973,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1974,Excelente compra. El color y tamaño son perfectos.,Positivo
+1975,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1976,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1977,Producto sucio y dañado. No recomendado.,Negativo
+1978,El producto es duradero y funciona excelentemente.,Positivo
+1979,Producto duradero pero el precio es elevado.,Positivo
+1980,Buena calidad pero demasiado caro para el mercado.,Positivo
+1981,Excelente compra. El color y tamaño son perfectos.,Positivo
+1982,Atención al cliente impecable. Producto de gran calidad. #@#&*,Positivo
+1983,Buena calidad pero demasiado caro para el mercado.,Negativo
+1984,Excelente compra. El color y tamaño son perfectos.,Positivo
+1985,El producto falla constantemente. No lo recomiendo. #@#&*,Negativo
+1986,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+1987,,Negativo
+1988,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1989,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+1990,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+1991,Buena calidad pero tiene algunas fallas menores.,Negativo
+1992,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+1993,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+1994,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1995,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+1996,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+1997,El producto es excelente pero el envío llegó tarde.,Negativo
+1998,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+1999,Producto defectuoso. Una decepción total.,Negativo
+2000,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2001,Rápido pero de calidad mediocre.,positivo
+2002,"Mala calidad, roto a los pocos días.",Negativo
+2003,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2004,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2005,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2006,Buena calidad pero tiene algunas fallas menores.,Positivo
+2007,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2008,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2009,Producto defectuoso. Una decepción total.,Negativo
+2010,Buen producto aunque la documentación es confusa.,Positivo
+2011,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2012,,Negativo
+2013,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2014,El envío llegó tarde y el producto estaba roto.,Negativo
+2015,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2016,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2017,Excelente compra. El color y tamaño son perfectos.,Positivo
+2018,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2019,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2020,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2021,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2022,,Positivo
+2023,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2024,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2025,Rápido en llegar pero el empaque estaba sucio.,Positivo
+2026,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2027,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2028,  La calidad es excelente y el precio es justo. Muy satisfecho.  ,Positivo
+2029,Excelente producto aunque la atención fue lenta.,Positivo
+2030,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2031,El producto falla constantemente. No lo recomiendo.,Negativo
+2032,  El envío fue rápido y el producto es de muy buena calidad.  ,Positivo
+2033,Producto sucio y dañado. No recomendado.,Negativo
+2034,,Positivo
+2035,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2036,,Negativo
+2037,El producto falla constantemente. No lo recomiendo.,Negativo
+2038,Excelente compra. El color y tamaño son perfectos.,Positivo
+2039,El producto falla constantemente. No lo recomiendo.,Negativo
+2040,El producto es duradero y funciona excelentemente.,Positivo
+2041,,Positivo
+2042,Excelente compra. El color y tamaño son perfectos.,Positivo
+2043,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2044,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2045,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2046,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2047,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2048,El envío fue rápido y el producto es de muy buena calidad. #@#&*,Positivo
+2049,Rápido en llegar pero el empaque estaba sucio.,Negativo
+2050,Excelente producto aunque la atención fue lenta.,Negativo
+2051,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2052,Producto defectuoso. Una decepción total.,Negativo
+2053,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2054,El producto falla constantemente. No lo recomiendo.,Negativo
+2055,Pésima calidad. Muy caro para lo que ofrece. #@#&*,Negativo
+2056,Excelente compra. El color y tamaño son perfectos.,Positivo
+2057,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2058,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2059,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2060,,Positivo
+2061,,Negativo
+2062,  Pésima calidad. Muy caro para lo que ofrece.  ,Negativo
+2063,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2064,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2065,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2066,Producto defectuoso. Una decepción total.,Negativo
+2067,Buen producto aunque la documentación es confusa. #@#&*,Negativo
+2068,El envío llegó tarde y el producto estaba roto.,Negativo
+2069,El producto falla constantemente. No lo recomiendo.,Negativo
+2070,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2071,Producto defectuoso. Una decepción total.,Negativo
+2072,,Negativo
+2073,El envío llegó tarde y el producto estaba roto. #@#&*,Negativo
+2074,Buena calidad pero demasiado caro para el mercado.,Negativo
+2075,Excelente compra. El color y tamaño son perfectos.,Positivo
+2076,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2077,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2078,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2079,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2080,Producto defectuoso. Una decepción total.,Negativo
+2081,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2082,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2083,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2084,Rápido en llegar pero el empaque estaba sucio.,Negativo
+2085,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2086,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2087,El producto falla constantemente. No lo recomiendo.,Negativo
+2088,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2089,Buena calidad pero demasiado caro para el mercado.,Positivo
+2090,Buena calidad pero demasiado caro para el mercado.,Positivo
+2091,Excelente compra. El color y tamaño son perfectos.,Positivo
+2092,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2093,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2094,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2095,"Mala calidad, roto a los pocos días.",Negativo
+2096,Llegó rápido pero el tamaño no es el esperado.,Positivo
+2097,Llegó rápido pero el tamaño no es el esperado.,Negativo
+2098,"Mala calidad, roto a los pocos días.",Negativo
+2099,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2100,Excelente compra. El color y tamaño son perfectos.,Positivo
+2101,El producto es duradero y funciona excelentemente.,Positivo
+2102,El producto falla constantemente. No lo recomiendo.,Negativo
+2103,El producto es excelente pero el envío llegó tarde.,Positivo
+2104,El tamaño no es lo que esperaba y falla después de poco uso. #@#&*,Negativo
+2105,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2106,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2107,Producto sucio y dañado. No recomendado.,Negativo
+2108,El producto es duradero y funciona excelentemente.,Positivo
+2109,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2110,Rápido en llegar pero el empaque estaba sucio.,Positivo
+2111,Rápido en llegar pero el empaque estaba sucio.,Negativo
+2112,Buena calidad pero demasiado caro para el mercado. #@#&*,Positivo
+2113,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2114,Producto sucio y dañado. No recomendado.,Negativo
+2115,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2116,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2117,Producto defectuoso. Una decepción total. #@#&*,Negativo
+2118,Producto eficaz y llegó bien empacado. Recomendado. #@#&*,Positivo
+2119,El color es excelente pero es frágil y se rompió.,Negativo
+2120,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2121,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2122,El producto es duradero y funciona excelentemente.,Positivo
+2123,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2124,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2125,Excelente compra. El color y tamaño son perfectos.,Positivo
+2126,Buen producto aunque la documentación es confusa.,Positivo
+2127,Buena calidad pero demasiado caro para el mercado.,Positivo
+2128,Excelente compra. El color y tamaño son perfectos.,neg
+2129,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2130,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2131,El envío llegó tarde y el producto estaba roto.,Negativo
+2132,"Mala calidad, roto a los pocos días.",Negativo
+2133,Llegó rápido pero el tamaño no es el esperado.,Negativo
+2134,Producto defectuoso. Una decepción total.,Negativo
+2135,El producto falla constantemente. No lo recomiendo.,Negativo
+2136,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2137,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2138,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2139,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2140,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2141,Excelente compra. El color y tamaño son perfectos.,Positivo
+2142,"Rápido, bien empacado y de buena calidad. Muy contento.",neg
+2143,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2144,El producto falla constantemente. No lo recomiendo.,Negativo
+2145,Producto defectuoso. Una decepción total.,Negativo
+2146,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2147,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2148,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2149,El producto es duradero y funciona excelentemente.,Positivo
+2150,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2151,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2152,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2153,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2154,El producto es excelente pero el envío llegó tarde. #@#&*,Negativo
+2155,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2156,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2157,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2158,El envío llegó tarde y el producto estaba roto.,Negativo
+2159,Rápido pero de calidad mediocre.,Negativo
+2160,Buen producto aunque la documentación es confusa.,Negativo
+2161,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2162,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2163,Rápido en llegar pero el empaque estaba sucio.,Negativo
+2164,Buena calidad pero tiene algunas fallas menores.,Positivo
+2165,Excelente compra. El color y tamaño son perfectos.,Positivo
+2166,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2167,El producto falla constantemente. No lo recomiendo.,Negativo
+2168,El color es excelente pero es frágil y se rompió.,Negativo
+2169,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2170,El producto es excelente pero el envío llegó tarde.,Positivo
+2171,Producto sucio y dañado. No recomendado.,Negativo
+2172,Rápido en llegar pero el empaque estaba sucio.,Negativo
+2173,El producto es duradero y funciona excelentemente.,Positivo
+2174,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2175,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2176,Excelente producto aunque la atención fue lenta.,Positivo
+2177,El producto es duradero y funciona excelentemente.,Positivo
+2178,El producto falla constantemente. No lo recomiendo.,Negativo
+2179,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2180,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2181,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2182,El color es excelente pero es frágil y se rompió.,Positivo
+2183,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2184,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2185,El producto es duradero y funciona excelentemente.,Positivo
+2186,,Positivo
+2187,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2188,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2189,Rápido pero de calidad mediocre.,Negativo
+2190,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2191,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2192,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2193,"Mala calidad, roto a los pocos días.",Negativo
+2194,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2195,Muy buen servicio de atención al cliente. Producto duradero.,
+2196,,Positivo
+2197,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2198,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2199,El producto es excelente pero el envío llegó tarde.,Positivo
+2200,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2201,El producto falla constantemente. No lo recomiendo.,Negativo
+2202,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2203,El envío llegó tarde y el producto estaba roto.,neg
+2204,  Excelente compra. El color y tamaño son perfectos.  ,Positivo
+2205,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2206,Buena calidad pero demasiado caro para el mercado.,Positivo
+2207,,Positivo
+2208,Muy buen servicio de atención al cliente. Producto duradero.,neg
+2209,El color es excelente pero es frágil y se rompió.,Positivo
+2210,Producto sucio y dañado. No recomendado.,Negativo
+2211,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2212,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2213,Excelente compra. El color y tamaño son perfectos.,Positivo
+2214,Excelente compra. El color y tamaño son perfectos.,
+2215,Producto defectuoso. Una decepción total.,Negativo
+2216,"Mala calidad, roto a los pocos días.",Negativo
+2217,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2218,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2219,"Mala calidad, roto a los pocos días.",Negativo
+2220,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2221,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2222,El producto falla constantemente. No lo recomiendo.,Negativo
+2223,Producto duradero pero el precio es elevado. #@#&*,Positivo
+2224,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2225,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2226,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2227,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2228,El producto es excelente pero el envío llegó tarde.,Positivo
+2229,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2230,Buen producto aunque la documentación es confusa.,Negativo
+2231,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2232,  Buena calidad pero demasiado caro para el mercado.  ,Positivo
+2233,Buena calidad pero tiene algunas fallas menores.,Positivo
+2234,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2235,Producto sucio y dañado. No recomendado.,Negativo
+2236,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2237,  Rápido pero de calidad mediocre.  ,Positivo
+2238,Producto duradero pero el precio es elevado.,Positivo
+2239,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2240,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2241,El producto es excelente pero el envío llegó tarde.,Negativo
+2242,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2243,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2244,,Positivo
+2245,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2246,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2247,Buena calidad pero tiene algunas fallas menores. #@#&*,Negativo
+2248,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2249,Excelente producto aunque la atención fue lenta.,Negativo
+2250,Rápido en llegar pero el empaque estaba sucio.,Positivo
+2251,"Mala calidad, roto a los pocos días.",Negativo
+2252,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2253,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2254,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2255,Producto sucio y dañado. No recomendado. #@#&*,Negativo
+2256,Rápido pero de calidad mediocre.,Negativo
+2257,,Positivo
+2258,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2259,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2260,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2261,El producto falla constantemente. No lo recomiendo.,Negativo
+2262,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2263,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2264,Atención al cliente pésima. Producto de mala calidad.,Positivo
+2265,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2266,Producto defectuoso. Una decepción total.,Negativo
+2267,La calidad es excelente y el precio es justo. Muy satisfecho.,positivo
+2268,Producto duradero pero el precio es elevado.,Positivo
+2269,  Producto caro y muy lento en funcionar. Gran decepción.  ,Negativo
+2270,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2271,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2272,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2273,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2274,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2275,  Llegó rápido pero el tamaño no es el esperado.  ,Negativo
+2276,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2277,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2278,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2279,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2280,Llegó rápido pero el tamaño no es el esperado.,Positivo
+2281,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2282,El producto es excelente pero el envío llegó tarde.,Negativo
+2283,Buena calidad pero demasiado caro para el mercado.,Negativo
+2284,Atención al cliente impecable. Producto de gran calidad.,positivo
+2285,Rápido en llegar pero el empaque estaba sucio.,Negativo
+2286,El color es excelente pero es frágil y se rompió.,Positivo
+2287,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2288,El envío llegó tarde y el producto estaba roto.,Negativo
+2289,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2290,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2291,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2292,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2293,Buen producto aunque la documentación es confusa.,Positivo
+2294,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2295,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2296,El producto es duradero y funciona excelentemente.,Positivo
+2297,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2298,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2299,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2300,Producto defectuoso. Una decepción total.,Negativo
+2301,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2302,El producto es excelente pero el envío llegó tarde.,Positivo
+2303,El envío llegó tarde y el producto estaba roto. #@#&*,Negativo
+2304,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2305,,Negativo
+2306,Buen producto aunque la documentación es confusa.,Positivo
+2307,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2308,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2309,,Negativo
+2310,El producto falla constantemente. No lo recomiendo.,Negativo
+2311,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2312,Llegó rápido pero el tamaño no es el esperado.,Positivo
+2313,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2314,El color es excelente pero es frágil y se rompió.,Negativo
+2315,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2316,,Positivo
+2317,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2318,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2319,Llegó rápido pero el tamaño no es el esperado.,Positivo
+2320,El producto llegó rápido y en excelente estado. Muy recomendado. #@#&*,Positivo
+2321,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2322,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2323,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2324,"Mala calidad, roto a los pocos días.",Negativo
+2325,Rápido pero de calidad mediocre.,Positivo
+2326,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2327,Excelente compra. El color y tamaño son perfectos.,Positivo
+2328,"Mala calidad, roto a los pocos días.",Negativo
+2329,El producto falla constantemente. No lo recomiendo.,Negativo
+2330,Producto duradero pero el precio es elevado.,Negativo
+2331,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2332,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2333,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2334,Producto defectuoso. Una decepción total.,Negativo
+2335,Rápido pero de calidad mediocre.,Negativo
+2336,Rápido en llegar pero el empaque estaba sucio.,Positivo
+2337,Excelente compra. El color y tamaño son perfectos.,Positivo
+2338,El producto falla constantemente. No lo recomiendo.,Negativo
+2339,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2340,"Mala calidad, roto a los pocos días.",Negativo
+2341,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2342,El envío llegó tarde y el producto estaba roto.,Negativo
+2343,Atención al cliente pésima. Producto de mala calidad. #@#&*,Negativo
+2344,El producto es duradero y funciona excelentemente.,Positivo
+2345,Producto defectuoso. Una decepción total.,Negativo
+2346,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2347,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2348,Buen producto aunque la documentación es confusa.,Positivo
+2349,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2350,El envío llegó tarde y el producto estaba roto.,Negativo
+2351,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2352,Llegó rápido pero el tamaño no es el esperado.,Positivo
+2353,El envío llegó tarde y el producto estaba roto.,Negativo
+2354,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2355,El color es excelente pero es frágil y se rompió.,Positivo
+2356,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2357,Producto sucio y dañado. No recomendado.,Negativo
+2358,  El envío fue rápido y el producto es de muy buena calidad.  ,Positivo
+2359,Empaque sucio y producto defectuoso. Muy insatisfecho. #@#&*,Negativo
+2360,Producto sucio y dañado. No recomendado.,Negativo
+2361,El envío llegó tarde y el producto estaba roto.,Negativo
+2362,"Mala calidad, roto a los pocos días.",Negativo
+2363,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2364,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2365,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2366,El producto es excelente pero el envío llegó tarde.,Positivo
+2367,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2368,Excelente compra. El color y tamaño son perfectos.,Positivo
+2369,Buena calidad pero demasiado caro para el mercado.,Positivo
+2370,Llegó rápido pero el tamaño no es el esperado.,Positivo
+2371,,Positivo
+2372,Buena calidad pero tiene algunas fallas menores.,Negativo
+2373,  Producto caro y muy lento en funcionar. Gran decepción.  ,Negativo
+2374,El producto es excelente pero el envío llegó tarde.,Negativo
+2375,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2376,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2377,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2378,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2379,Producto defectuoso. Una decepción total. #@#&*,Negativo
+2380,Empaque sucio y producto defectuoso. Muy insatisfecho. #@#&*,Negativo
+2381,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2382,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2383,El color es excelente pero es frágil y se rompió.,Positivo
+2384,El producto es duradero y funciona excelentemente.,Positivo
+2385,Producto eficaz y llegó bien empacado. Recomendado. #@#&*,Positivo
+2386,Muy buen servicio de atención al cliente. Producto duradero. #@#&*,Positivo
+2387,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2388,Excelente producto aunque la atención fue lenta.,Positivo
+2389,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2390,Excelente compra. El color y tamaño son perfectos.,Positivo
+2391,Producto sucio y dañado. No recomendado.,Negativo
+2392,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2393,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2394,El producto es duradero y funciona excelentemente.,Positivo
+2395,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2396,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2397,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2398,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2399,Producto duradero pero el precio es elevado.,Positivo
+2400,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2401,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2402,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2403,,Positivo
+2404,"Rápido, bien empacado y de buena calidad. Muy contento. #@#&*",Positivo
+2405,Excelente compra. El color y tamaño son perfectos.,Positivo
+2406,El producto es excelente pero el envío llegó tarde.,Positivo
+2407,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2408,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2409,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2410,Atención al cliente impecable. Producto de gran calidad.,Positivo
+2411,Excelente compra. El color y tamaño son perfectos.,Positivo
+2412,,Negativo
+2413,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2414,El color es excelente pero es frágil y se rompió.,Negativo
+2415,El producto falla constantemente. No lo recomiendo.,Negativo
+2416,Excelente compra. El color y tamaño son perfectos. #@#&*,Positivo
+2417,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2418,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2419,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2420,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2421,El envío llegó tarde y el producto estaba roto.,Negativo
+2422,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2423,Producto defectuoso. Una decepción total.,Negativo
+2424,Pésima calidad. Muy caro para lo que ofrece.,Negativo
+2425,Producto duradero pero el precio es elevado.,Negativo
+2426,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2427,El envío llegó tarde y el producto estaba roto.,Negativo
+2428,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2429,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2430,Producto eficaz y llegó bien empacado. Recomendado. #@#&*,Positivo
+2431,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2432,El producto es duradero y funciona excelentemente.,Positivo
+2433,Rápido en llegar pero el empaque estaba sucio.,Negativo
+2434,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2435,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2436,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2437,Excelente compra. El color y tamaño son perfectos.,Positivo
+2438,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2439,El producto es duradero y funciona excelentemente.,Positivo
+2440,"Mala calidad, roto a los pocos días.",Negativo
+2441,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2442,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2443,El color es excelente pero es frágil y se rompió.,Positivo
+2444,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2445,"Mala calidad, roto a los pocos días.",Negativo
+2446,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2447,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2448,El producto falla constantemente. No lo recomiendo.,Negativo
+2449,Excelente compra. El color y tamaño son perfectos.,Positivo
+2450,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2451,,Negativo
+2452,Empaque sucio y producto defectuoso. Muy insatisfecho.,Negativo
+2453,Producto duradero pero el precio es elevado.,Negativo
+2454,El producto falla constantemente. No lo recomiendo.,Negativo
+2455,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2456,Producto sucio y dañado. No recomendado.,Negativo
+2457,Rápido en llegar pero el empaque estaba sucio.,Positivo
+2458,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2459,Producto duradero pero el precio es elevado.,Negativo
+2460,Buena calidad pero tiene algunas fallas menores.,Negativo
+2461,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2462,Producto caro y muy lento en funcionar. Gran decepción. #@#&*,Negativo
+2463,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2464,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2465,Buen producto aunque la documentación es confusa.,Positivo
+2466,Muy buen servicio de atención al cliente. Producto duradero.,Positivo
+2467,Producto duradero pero el precio es elevado.,Positivo
+2468,Excelente compra. El color y tamaño son perfectos.,Positivo
+2469,Producto sucio y dañado. No recomendado.,Negativo
+2470,Excelente producto aunque la atención fue lenta.,Negativo
+2471,El envío fue rápido y el producto es de muy buena calidad.,Positivo
+2472,El tamaño no es lo que esperaba y falla después de poco uso.,Negativo
+2473,El producto es duradero y funciona excelentemente.,Positivo
+2474,El producto llegó rápido y en excelente estado. Muy recomendado. #@#&*,Positivo
+2475,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2476,Producto defectuoso. Una decepción total.,positivo
+2477,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2478,Producto sucio y dañado. No recomendado.,Negativo
+2479,Producto caro y muy lento en funcionar. Gran decepción.,Negativo
+2480,Producto sucio y dañado. No recomendado.,Negativo
+2481,Producto duradero pero el precio es elevado.,Positivo
+2482,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2483,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2484,,Negativo
+2485,El producto llegó rápido y en excelente estado. Muy recomendado.,Positivo
+2486,Llegó rápido pero el tamaño no es el esperado.,Negativo
+2487,La calidad es excelente y el precio es justo. Muy satisfecho.,Positivo
+2488,,Positivo
+2489,,Negativo
+2490,  Producto duradero pero el precio es elevado.  ,Positivo
+2491,Atención al cliente pésima. Producto de mala calidad.,Negativo
+2492,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
+2493,El color es excelente pero es frágil y se rompió.,Positivo
+2494,"Rápido, bien empacado y de buena calidad. Muy contento.",Positivo
+2495,El producto es duradero y funciona excelentemente.,Positivo
+2496,"  Rápido, bien empacado y de buena calidad. Muy contento.  ",Positivo
+2497,Producto eficaz y llegó bien empacado. Recomendado.,Positivo
+2498,Buen producto aunque la documentación es confusa.,Positivo
+2499,"Excelente calidad, superó mis expectativas. Compraría de nuevo.",Positivo
