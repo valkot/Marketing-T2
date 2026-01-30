@@ -70,6 +70,15 @@ os.environ["TF_USE_LEGACY_KERAS"] = "1"
 import tensorflow as tf
 import tf_keras as keras
 
+
+### 📦 Librerías a Instalar
+Para preparar el entorno, ejecuta los siguientes comandos en tu terminal:
+
+# Procesamiento de datos y visualización
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+# Deep Learning y Modelos de Lenguaje (NLP)
 pip install tensorflow tf_keras transformers sentence-transformers
+
+# Tópicos y Recomendación
 pip install bertopic nltk surprise
